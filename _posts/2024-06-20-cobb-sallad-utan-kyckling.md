@@ -5,7 +5,7 @@ description: "Det brukar vara kyckling i Cobb-sallad, men det är det inte i den
 image: /assets/images/cobb-sallad-utan-kyckling.png
 
 # Recipe-specific data
-category: Pasta
+category: Sallad
 servings: "2 portioner"
 
 ingredients:
