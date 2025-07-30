@@ -11,13 +11,19 @@ layout: default # Assumes you have a default layout with the <head> and <body> t
     <div class="recipe-body">
         <div class="ingredients">
             <h2>Ingredienser</h2>
-            <ul>
-                {% for item in page.ingredients %}
-                <li>{{ item.quantity }} {{ item.name }}</li>
+            <ul class="ingredient-list">
+                {% for group in page.ingredients %}
+                {% if group.section %}
+                <li class="ingredient-subheader">{{ group.section }}</li>
+                {% for item in group.items %}
+                <li class="ingredient-item">{{ item.quantity }} {{ item.name }}</li>
+                {% endfor %}
+                {% else %}
+                <li class="ingredient-item">{{ group.quantity }} {{ group.name }}</li>
+                {% endif %}
                 {% endfor %}
             </ul>
         </div>
-
         <div class="instructions">
             <h2>Gör så här</h2>
             <ol>
