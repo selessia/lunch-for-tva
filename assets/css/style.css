@@ -5,6 +5,29 @@
     padding: 2rem 1rem;
 }
 
+/* Styling for the title and feed icon container */
+.title-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    /* The h1's original margin-bottom is now here */
+    margin-bottom: 2rem;
+}
+
+/* Remove the original margin from the h1 */
+.site-title {
+    margin-bottom: 0;
+}
+
+/* Style the feed icon link */
+.feed-icon {
+    color: #f39c12; /* A classic orange for RSS feeds */
+    transition: color 0.2s ease-in-out;
+}
+
+.feed-icon:hover {
+    color: #e67e22; /* A slightly darker orange on hover */
+}
 .site-title {
     margin-bottom: 2rem;
     font-size: 2.5rem;
