@@ -23,16 +23,18 @@ ingredients:
     quantity: 1
   - name: salladslök, hackad
     quantity: 2
-  - name: (Dressing:) rödvinsvinäger
-    quantity: 2 msk
-  - name: olivolja
-    quantity: 2 msk
-  - name: honung
-    quantity: 1 msk
-  - name: dijonsenap
-    quantity: ¼ tsk
-  - name: salt & peppar
-    quantity: 
+  - section: "Dressing"
+    items:
+      - name: rödvinsvinäger
+        quantity: 2 msk
+      - name: olivolja
+        quantity: 2 msk
+      - name: honung
+        quantity: 1 msk
+      - name: dijonsenap
+        quantity: ¼ tsk
+      - name: salt & peppar
+        quantity: 
 
 instructions:
   - Koka äggen, låt svalna. Skala sedan och skär i bitar.
