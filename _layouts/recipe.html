@@ -8,15 +8,9 @@ layout: default # Assumes you have a default layout with the <head> and <body> t
     <p class="description">{{ page.description }}</p>
     <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="recipe-image">
 
-    <div class="recipe-meta">
-        <span><strong>🍽️ Servings:</strong> {{ page.servings }}</span>
-        <span><strong>🔪 Prep Time:</strong> {{ page.prep_time }}</span>
-        <span><strong>🍳 Cook Time:</strong> {{ page.cook_time }}</span>
-    </div>
-
     <div class="recipe-body">
         <div class="ingredients">
-            <h2>Ingredients</h2>
+            <h2>Ingredienser</h2>
             <ul>
                 {% for item in page.ingredients %}
                 <li>{{ item.quantity }} {{ item.name }}</li>
@@ -25,7 +19,7 @@ layout: default # Assumes you have a default layout with the <head> and <body> t
         </div>
 
         <div class="instructions">
-            <h2>Instructions</h2>
+            <h2>Gör så här</h2>
             <ol>
                 {% for step in page.instructions %}
                 <li>{{ step }}</li>
