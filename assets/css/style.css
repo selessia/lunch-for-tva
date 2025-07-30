@@ -1,0 +1,10 @@
+/* Basic Recipe Styling */
+.recipe { max-width: 800px; margin: 2rem auto; font-family: sans-serif; }
+.recipe-image { width: 100%; height: auto; border-radius: 8px; margin-bottom: 1rem; }
+.recipe-meta { display: flex; justify-content: space-around; background: #f9f9f9; padding: 1rem; border-radius: 8px; margin-bottom: 2rem; }
+.recipe-body { display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; }
+.ingredients ul { list-style-type: none; padding: 0; }
+.ingredients li { padding: 0.5rem; border-bottom: 1px solid #eee; }
+.instructions ol { padding-left: 20px; }
+.instructions li { margin-bottom: 1rem; line-height: 1.6; }
+.recipe-notes { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ccc; }
