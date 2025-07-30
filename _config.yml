@@ -22,8 +22,8 @@ title: Lunch för Två
 email: marianne@selessia.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simple and delicious recipes for two people.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://selessia.github.io" # the subpath of your site, e.g. /blog
+url: "/lunch-for-tva" # the base hostname & protocol for your site, e.g. http://example.com
 default_image: /assets/images/site-logo.png # A default image for sharing
 twitter_username: jekyllrb
 github_username:  jekyll
