@@ -6,19 +6,28 @@ layout: default
     <div class="title-container">
         <h1 class="site-title">{{ site.title }}</h1>
         <a href="{{ '/feed.xml' | relative_url }}" class="feed-icon" aria-label="RSS Feed">
-            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 11a9 9 0 0 1 9 9"></path>
+                <path d="M4 4a16 16 0 0 1 16 16"></path>
+                <circle cx="5" cy="19" r="1"></circle>
+            </svg>
         </a>
     </div>
     {% assign featured_post = site.posts.first %}
 
     <a href="{{ featured_post.url | relative_url }}" class="featured-post">
         <div class="post-image-container">
-            <img src="{{ featured_post.image | default: '/assets/images/placeholder.jpg' | relative_url }}" alt="{{ featured_post.title }}">
+            <img src="{{ featured_post.image | default: '/assets/images/placeholder.jpg' | relative_url }}"
+                 alt="{{ featured_post.title }}">
         </div>
         <div class="post-content">
             <h2>{{ featured_post.title }}</h2>
             <div class="post-meta">
-                <span>on {{ featured_post.date | date: "%B %d, %Y" }}</span>
+                <span>
+                    {% assign m = featured_post.date | date: "%-m" | minus: 1 %}
+                    den {{ featured_post.date | date: "%-d" }} {{ site.data.sv_months[m].name }} {{ featured_post.date | date: "%Y" }}
+                </span>
             </div>
         </div>
     </a>
@@ -27,12 +36,16 @@ layout: default
         {% for post in site.posts offset:1 %}
         <a href="{{ post.url | relative_url }}" class="post-card">
             <div class="post-image-container">
-                <img src="{{ post.image | default: '/assets/images/placeholder.jpg' | relative_url }}" alt="{{ post.title }}">
+                <img src="{{ post.image | default: '/assets/images/placeholder.jpg' | relative_url }}"
+                     alt="{{ post.title }}">
             </div>
             <div class="post-content">
                 <h3>{{ post.title }}</h3>
                 <div class="post-meta">
-                    <span>on {{ post.date | date: "%B %d, %Y" }}</span>
+                    <span>
+                        {% assign m = post.date | date: "%-m" | minus: 1 %}
+                        den {{ post.date | date: "%-d" }} {{ site.data.sv_months[m].name }} {{ post.date | date: "%Y" }}
+                    </span>
                 </div>
             </div>
         </a>
