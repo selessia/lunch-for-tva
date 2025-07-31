@@ -3,6 +3,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Simple and delicious recipes for two people.
 baseurl: ""
 url: "https://lunch-for-tva.se"
+permalink: /:categories/:title/
 default_image: /assets/images/site-logo.png
 twitter_username: jekyllrb
 github_username:  jekyll
