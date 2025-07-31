@@ -48,7 +48,7 @@ instructions:
   - Tina räkorna i kylskåp 24 timmar innan.
   - Tina brödskivorna och låt dem svalna.
   - Skala räkorna.
-  - Krutonger: Skär brödskivorna i fyrkanter, ringla över olivolja och rosta dem på 200° mitt i ugnen i några minuter (ca 7-10 minuter).
+  - 'Krutonger: Skär brödskivorna i fyrkanter, ringla över olivolja och rosta dem på 200° mitt i ugnen i några minuter (ca 7-10 minuter).'
   - Koka äggen. Låt dem svalna i iskallt vatten. Skala dem och skiva dem när de är klara (med äggskivare).
   - Vispa ihop dressingen i en bunke.
   - Skölj och hacka romansalladen. Blanda salladen med lite av dressingen. Lägg upp salladen på tallrikar.
