@@ -1,30 +1,73 @@
-header {
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
-  .title-container {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    margin-bottom: 2rem;
-  }
+.site-header {
+  padding: 1rem 0;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 2rem;
+}
 
+.header-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
+
+.header-link,
+.header-link:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-branding {
+  .title-container {
+    margin-bottom: 0;
+  }
   .site-title {
     margin: 0;
     font-size: 4rem;
     font-weight: bold;
   }
-
   .site-subheader {
     font-family: var(--font-subheader);
     font-weight: 400;
-    font-style: normal;
     font-size: 2rem;
     color: #666;
-    text-align: left;
-    margin-top: -2rem;
-    margin-bottom: 1rem;
+    margin: 0;
+  }
+}
+
+// Header Search Form
+.header-search-form {
+  display: flex;
+  flex-shrink: 0; // Prevents the form from shrinking on small screens
+}
+
+.header-search-input {
+  padding: 0.6rem 0.8rem;
+  font-size: 1rem;
+  font-family: var(--font-body);
+  border: 1px solid #ccc;
+  border-right: none;
+  border-radius: 8px 0 0 8px;
+  outline: none;
+  width: 180px; // Give it a default width
+}
+
+.header-search-button {
+  background-color: #333;
+  border: 1px solid #333;
+  color: white;
+  padding: 0 0.75rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-radius: 0 8px 8px 0;
+  transition: background-color 0.2s;
+
+  &:hover {
+    background-color: #555;
   }
 }
 
@@ -35,13 +78,34 @@ header {
   border-top: 1px solid #e0e0e0;
   color: #888;
   font-size: 0.9rem;
+  text-align: center;
 
   .feed-icon {
     color: #000;
     transition: color 0.2s ease-in-out;
+    display: inline-block;
+    margin-bottom: 1rem;
   }
 
   .feed-icon:hover {
     color: #e67e22;
+  }
+}
+
+// 3. RESPONSIVE LAYOUT STYLES
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+  }
+
+  .site-branding .site-title {
+    font-size: 3rem;
+  }
+
+  .site-branding .site-subheader {
+    font-size: 1.5rem;
+    margin-top: -1rem;
   }
 }
