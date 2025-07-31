@@ -42,8 +42,7 @@ instructions:
   - Vispa ihop dressingen i en bunke.
   - Blanda salladen med en skvätt av dressingen.
   - Lägg upp på tallrikar och smula över fetaost. Toppa med äggen i halvor. Klicka över resten av dressingen.
+
+attribution: Receptet kommer från [Vikalinka](https://vikalinka.com/spring-pea-and-arugula-salad-with-creamy-dill-dressing/) som är en av mina absoluta favorit-bloggar.
+
 ---
-
-## Källa
-
-Receptet kommer från https://vikalinka.com/spring-pea-and-arugula-salad-with-creamy-dill-dressing/ som är en av mina absoluta favorit-bloggar.

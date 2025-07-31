@@ -47,8 +47,6 @@ instructions:
 - I en stor skål, blanda sallad, gurka, ärtor och avokado. Blanda med dressingen och fördela på två tallrikar.
 - Toppa med sparris, smulad ädelost, mandel och pancetta.
 
+attribution: Baserat på ett recept från [la bella vita cucina](https://www.italianbellavita.com/2024/03/spring-pea-and-asparagus-salad/)
+
 ---
-
-## Källa
-
-Receptet är baserat på detta: https://www.italianbellavita.com/2024/03/spring-pea-and-asparagus-salad/

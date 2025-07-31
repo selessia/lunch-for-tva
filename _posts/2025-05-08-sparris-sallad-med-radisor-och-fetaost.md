@@ -41,8 +41,6 @@ instructions:
 - Skaka ihop dressingen i en burk. Häll den över salladen och blanda runt.
 - Lägg upp salladen på två tallrikar. Toppa med sparris-bitarna.
 
+attribution: Receptet kommer från [The Recipe Critic](https://therecipecritic.com/asparagus-salad/ )
+
 ---
-
-## Källa
-
-Receptet kommer härifrån: https://therecipecritic.com/asparagus-salad/ 

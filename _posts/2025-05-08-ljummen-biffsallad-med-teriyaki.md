@@ -39,8 +39,6 @@ instructions:
 - Skär köttet i tunna skivor.
 - Lägg kött och svamp ovanpå salladen. Häll över dressingen och strö över sesamfrön.
 
+attribution: Receptet kommer från Allt om Mat.
+
 ---
-
-## Källa
-
-Receptet är från Allt om Mat.

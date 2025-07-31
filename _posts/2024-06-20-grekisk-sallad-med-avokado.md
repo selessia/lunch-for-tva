@@ -45,8 +45,7 @@ instructions:
   - Skaka ihop dressingen i en burk.
   - Häll ¼ msk av dressingen över avokadon och blanda. Häll resten av dressingen över den övriga salladen och blanda.
   - Lägg upp salladen på två tallrikar. Toppa med avokadon och fetaosten.
+
+attribution: Receptet kommer från [foodiecrush](https://www.foodiecrush.com/greek-salad-with-avocado/)
+
 ---
-
-## Källa
-
-Det här receptet kommer från https://www.foodiecrush.com/greek-salad-with-avocado/

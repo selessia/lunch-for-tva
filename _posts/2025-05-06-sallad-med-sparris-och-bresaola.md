@@ -53,9 +53,6 @@ instructions:
 - Skaka dressingen i en burk.
 - Blanda salladen med hälften av dressingen och lägg upp på två tallrikar. Toppa med sparris, breseaola, burrata, pinjenötter, körsbärstomater och palsternackschips. Droppa över resterande dressing.
 
+attribution: Baserat på ett recept från [Good Housekeeping](https://www.goodhousekeeping.com/uk/food/recipes/a538173/asparagus-burrata-and-prosciutto-salad/)
 
 ---
-
-## Källa
-
-Baserat på det här receptet: https://www.goodhousekeeping.com/uk/food/recipes/a538173/asparagus-burrata-and-prosciutto-salad/

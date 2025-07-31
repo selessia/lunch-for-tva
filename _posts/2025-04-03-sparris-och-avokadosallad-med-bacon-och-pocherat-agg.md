@@ -47,8 +47,7 @@ instructions:
 - Knäck äggen ett i taget i en liten skål och låt det försiktigt glida ner i vattnet. Låt äggen sjuda ca 3 min. Lyft upp dem med hålslev.
 - Lägg salladsmixen på tallrikar. Toppa med avokado och sparris. Smula över osten och lägg på äggen. Strö över bacon och krydda alltihop med svartpeppar.
 
+attribution: Baserat på ett recept från [Arla](https://www.arla.se/recept/sparris-och-avokadosallad-med-bacon-och-pocherat-agg/)
+
 ---
 
-## Källa
-
-Ursprunget till det här receptet är detta: https://www.arla.se/recept/sparris-och-avokadosallad-med-bacon-och-pocherat-agg/

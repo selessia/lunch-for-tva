@@ -30,9 +30,8 @@ instructions:
   - Dela upp på två tallrikar.
   - Värm resterande teriyaki-sås i mikron i ca 20 sekunder och häll över laxbitarna.
 
----
-## Källa
+attribution: Receptet kommer från [epicurious](https://www.epicurious.com/recipes/food/views/teriyaki-salmon-and-kale-sheet-pan-supper-pioneer-woman)
 
-Receptet kommer härifrån: https://www.epicurious.com/recipes/food/views/teriyaki-salmon-and-kale-sheet-pan-supper-pioneer-woman
+---
 
 

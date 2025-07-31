@@ -81,9 +81,9 @@ instructions:
   - Skeda över tsatsiki och strö över tärnad fetaost.
 
 attribution: |
-  Den här är baserad på [receptet från Jo Cooks](https://www.jocooks.com/recipes/tzatziki-chicken-salad/) 
-  men kycklingen kommer [foodiecrush](https://www.foodiecrush.com/easy-chicken-gyros-with-tzatziki-sauce/).
-  Tsatsikin kommer [recipetineats](https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/),
-  och dressingen kommer [foodiecrush](https://www.foodiecrush.com/greek-salad-with-avocado/).
+  Den här är baserad på ett recept från [Jo Cooks](https://www.jocooks.com/recipes/tzatziki-chicken-salad/) 
+  men kycklingen kommer från [foodiecrush](https://www.foodiecrush.com/easy-chicken-gyros-with-tzatziki-sauce/).
+  Tsatsikin kommer från [recipetineats](https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/),
+  och dressingen kommer från [foodiecrush](https://www.foodiecrush.com/greek-salad-with-avocado/).
 
 ---

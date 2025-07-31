@@ -40,8 +40,6 @@ instructions:
   - Fyll stekpannan med ett par cm vatten och koka upp. Ha i sparrisen i ett lager och sjud i 2-3 minuter tills klar. Ta upp ur pannan med tång och doppa hastigt i en skål med iskallt vatten. Låt rinna av på hushållspapper. Skär den sedan i fjärdedelar.
   - Lägg sparris och nötter ovanpå salladen. Ringla över dressingen.
 
+attribution: Receptet kommer från [the endless meal](https://www.theendlessmeal.com/asparagus-salad-with-reduced-balsamic-vinaigrette/)
+
 ---
-
-## Källa
-
-Det här receptet kommer från början härifrån: https://www.theendlessmeal.com/asparagus-salad-with-reduced-balsamic-vinaigrette/

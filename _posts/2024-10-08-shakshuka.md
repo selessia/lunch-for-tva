@@ -53,9 +53,8 @@ instructions:
   - Lägg på lock och låt puttra på svag medelvärme tills vitan stannat men äggulan fortfarande är lite lös, i cirka 8-12 minuter.
   - Smula över fetaost och strö över koriander. Servera med brödet.
 
----
-## Källa
+attribution: Receptet kommer från början från [Allt om Mat](https://www.expressen.se/alltommat/recept/shakshuka–marockansk-tomatgryta-med-agg-och-fetaost/). Jag har ändrat en hel del dock.
 
-Receptet kommer från början härifrån: https://www.expressen.se/alltommat/recept/shakshuka–marockansk-tomatgryta-med-agg-och-fetaost/ Jag har ändrat en hel del dock.
+---
 
 

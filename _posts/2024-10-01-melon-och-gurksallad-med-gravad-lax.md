@@ -57,7 +57,6 @@ instructions:
   - Blanda salladen med dressing och lägg upp på två tallrikar.
   - Toppa med laxskivorna, sedan dillmajonnäs, därefter flagad mandel och sist några dillkvistar.  
 
----
-## Källa
+attribution: Receptet kommer från början från [Viva Vin & Mat](https://vivavinomat.se/recept/gravad-lax-med-gurk-och-melonsallad-mandel-och-dillmajonnas/)
 
-Receptet kommer från början härifrån: https://vivavinomat.se/recept/gravad-lax-med-gurk-och-melonsallad-mandel-och-dillmajonnas/
+---

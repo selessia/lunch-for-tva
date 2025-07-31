@@ -44,8 +44,7 @@ instructions:
   - Blanda ingredienserna till dressingen i en liten burk och skaka ihop.
   - Lägg romansallad och gurk-skivor i en stor skål och blanda med dressingen.
   - Fördela sallad på två tallrikar. Toppa med avokado, tomater, bacon, ägg, ädelost och salladslök.
+
+attribution: Receptet kommer från [Sweet Peas & Saffron](https://sweetpeasandsaffron.com/cobb-salad-recipe/)
 ---
 
-## Källa
-
-Receptet kommer från https://sweetpeasandsaffron.com/cobb-salad-recipe/

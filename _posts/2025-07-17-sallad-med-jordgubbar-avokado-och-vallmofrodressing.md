@@ -42,8 +42,6 @@ instructions:
 - Blanda salladsingredienserna utom ost + mandelspån i en stor skål. Blanda med dressingen.
 - Dela upp på två tallrikar och toppa med smulad ädelost och mandelspån.
 
+attribution: Receptet kommer från [Gimme Some Oven](https://www.gimmesomeoven.com/avocado-strawberry-spinach-salad-with-poppyseed-dressing/)
+
 ---
-
-## Källa
-
-Den här gången kommer receptet härifrån: https://www.gimmesomeoven.com/avocado-strawberry-spinach-salad-with-poppyseed-dressing/ 

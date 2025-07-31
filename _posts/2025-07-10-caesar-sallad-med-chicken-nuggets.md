@@ -51,8 +51,7 @@ instructions:
 - Värm ugnen till vad som anges på nuggets-påsen och tillaga dem sedan i ugnen enligt den instruktionen. När de är klara, skär dem i halvor.
 - Skölj och hacka romansalladen. Blanda den med en skvätt dressing. Blanda sedan i det mesta av parmesanen. Fördela detta på två tallrikar.
 - Toppa med resten av dressingen, nuggets, krutonger och resten av parmesanen.
+
+attribution: Dressingen här är perfekt och kommer från [Zeinas kitchen](https://zeinaskitchen.se/ceasarsallad/)
+
 ---
-
-## Källa
-
-Dressingen här är perfekt och kommer från https://zeinaskitchen.se/ceasarsallad/ 

@@ -48,7 +48,6 @@ instructions:
   - Lägg upp på tallrikar och strö över smulad getost.
   - Servera med brödet.
 
----
-## Källa
+attribution: Receptet kommer från [Italian Food Forever](https://www.italianfoodforever.com/2023/01/roasted-mixed-vegetables/)
 
-Receptet kommer härifrån: https://www.italianfoodforever.com/2023/01/roasted-mixed-vegetables/
+---

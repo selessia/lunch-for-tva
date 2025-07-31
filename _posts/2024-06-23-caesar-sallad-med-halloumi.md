@@ -52,8 +52,9 @@ instructions:
   - Skiva halloumin i tunna skivor och stek i en non-stick panna på medelvärme tills gyllene på båda sidor. Ställ åt sidan.
   - Skölj och hacka romansalladen. Skala gurkan lite och skär den i halvmånar. Blanda gurka och sallad med en skvätt dressing. Blanda sedan i ca hälften av parmesanen. Fördela detta på två tallrikar.
   - Toppa med resten av dressingen, halloumi, krutonger och resten av parmesanen.
+
+attribution: Dressingen här är perfekt och kommer från [Zeinas kitchen](https://zeinaskitchen.se/ceasarsallad/)
+
 ---
 
-## Källa
-
-Dressingen här är perfekt och kommer från https://zeinaskitchen.se/ceasarsallad/ 
+ 

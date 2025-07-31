@@ -49,8 +49,6 @@ instructions:
 - Låt stå i kylskåp i minst en timme.
 - Fördela på två tallrikar. Toppa med lite färsk basilika.
 
+attribution: Receptet kommer från [Soup Addict](https://soupaddict.com/blt-pasta-salad/)
+
 ---
-
-## Källa
-
-Receptet kommer härifrån: https://soupaddict.com/blt-pasta-salad/

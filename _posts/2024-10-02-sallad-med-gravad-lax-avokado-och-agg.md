@@ -48,10 +48,8 @@ instructions:
   - Häll över dressingen och blanda runt.
   - Lägg upp salladen på två tallrikar. Toppa med skivad gravlax och ägghalvor.
   
+attribution: Receptet kommer från [Making Salads](https://makingsalads.com/smoked-salmon-avocado-salad/)
 
 ---
-## Källa
-
-Receptet kommer härifrån: https://makingsalads.com/smoked-salmon-avocado-salad/
 
 

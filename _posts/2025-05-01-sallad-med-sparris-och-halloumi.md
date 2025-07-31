@@ -48,8 +48,6 @@ instructions:
   - Skiva halloumin i tunna skivor. Stek i 2 tsk olivolja i en non-stick panna. Stek på båda sidor tills gyllenbrun. Lägg skivorna på hushållspapper.
   - Toppa salladen med tomater och avokado. Krydda med lite salt och peppar. Lägg på sparris och halloumi. Ringla över dressingen.
 
+attribution: Receptet kommer från [Diet Doctor](https://www.dietdoctor.com/recipes/summer-asparagus-and-halloumi-salad)
+
 ---
-
-## Källa
-
-Receptet kommer härifrån: https://www.dietdoctor.com/recipes/summer-asparagus-and-halloumi-salad

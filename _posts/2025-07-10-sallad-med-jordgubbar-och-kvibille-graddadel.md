@@ -40,8 +40,7 @@ instructions:
  - Fördela salladen på två tallrikar. Lägg på skivade jordgubbar, skivad rödlök, skivad avokado.
  - Ringla över dressingen.
  - Smula över osten och strö över hackade nötter.
+
+attribution: Receptet kommer från [Simply Delicious](https://simply-delicious-food.com/avocado-blue-cheese-strawberry-salad/)
+
 ---
-
-## Källa
-
-Receptet kommer härifrån: https://simply-delicious-food.com/avocado-blue-cheese-strawberry-salad/
