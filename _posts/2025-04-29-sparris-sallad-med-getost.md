@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sparris-sallad med getost"
 description: "Ännu en smarrig sparris-sallad, denna gång med getost."
-image: /assets/images/sparris-sallad-med-getost.png
+image: /assets/images/sparris-sallad-med-getost.jpeg
 
 # Recipe-specific data
 category: Sallad

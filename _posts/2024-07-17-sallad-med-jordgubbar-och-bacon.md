@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med jordgubbar och bacon"
 description: "Kanske den optimala salladen med jordgubbar? I alla fall min favorit."
-image: /assets/images/sallad-med-jordgubbar-och-bacon.jpg
+image: /assets/images/sallad-med-jordgubbar-och-bacon.jpeg
 
 # Recipe-specific data
 category: Sallad

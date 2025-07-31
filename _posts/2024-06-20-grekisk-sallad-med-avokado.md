@@ -2,7 +2,7 @@
 layout: recipe
 title: "Grekisk sallad med avokado"
 description: "Grekisk sallad är jättegott, och med avokado i blir den lite matigare."
-image: /assets/images/grekisk-sallad-med-avokado.png
+image: /assets/images/grekisk-sallad-med-avokado.jpeg
 
 # Recipe-specific data
 category: Sallad

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Rostade medelhavsgrönsaker med ägg"
 description: "Det här är jättegott, och perfekt om man gillar aubergine och ägg!"
-image: /assets/images/rostade-medelhavsgronsaker-med-agg.png
+image: /assets/images/rostade-medelhavsgronsaker-med-agg.jpeg
 
 # Recipe-specific data
 category: Varm mat

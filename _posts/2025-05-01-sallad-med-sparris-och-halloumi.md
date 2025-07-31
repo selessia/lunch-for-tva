@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med sparris och halloumi"
 description: "Här kommer ännu en väldigt smarrig sallad med sparris. Denna gång med bland annat halloumi och avokado till."
-image: /assets/images/sallad-med-sparris-och-halloumi.png
+image: /assets/images/sallad-med-sparris-och-halloumi.jpeg
 
 # Recipe-specific data
 category: Sallad

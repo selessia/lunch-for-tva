@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med kyckling och tsatsiki"
 description: "En nyttig men matig och jättegod sallad."
-image: /assets/images/sallad-med-kyckling-och-tsatsiki.png
+image: /assets/images/sallad-med-kyckling-och-tsatsiki.jpeg
 
 # Recipe-specific data
 category: Sallad

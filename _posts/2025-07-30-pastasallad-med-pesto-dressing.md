@@ -42,7 +42,7 @@ ingredients:
         
 instructions:
 
-- Dressing: Blanda ihop ingredienserna till en slät blandning. Dressingen ska vara tunn nog att droppa från en sked – späd med lite vatten om det behövs.
+- "Dressing: Blanda ihop ingredienserna till en slät blandning. Dressingen ska vara tunn nog att droppa från en sked – späd med lite vatten om det behövs."
 - Koka pastan enligt paketet. Skölj med kallt vatten och häll av. Ställ åt sidan för att svalna.
 - Stek bacon. Låt det rinna av på hushållspapper och smula eller klipp i småbitar när det har svalnat.
 - I en stor skål, lägg spenat, lök, tomater, avokado, bacon och pasta. Salta och peppra lite och blanda sedan med dressingen.

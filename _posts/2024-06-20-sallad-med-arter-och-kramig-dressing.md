@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med ärter och krämig dressing"
 description: "Den här salladen har vi ätit väldigt många gånger! Den är lättlagad och supergod."
-image: /assets/images/sallad-med-arter-och-kramig-dressing.png
+image: /assets/images/sallad-med-arter-och-kramig-dressing.jpeg
 
 # Recipe-specific data
 category: Sallad

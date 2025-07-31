@@ -2,7 +2,7 @@
 layout: recipe
 title: "Rostade medelhavsgrönsaker med ägg"
 description: "Ännu en varm sallad. Supergott med kikärtor och champinjoner!"
-image: /assets/images/sallad-med-rostade-gronsaker-och-kikartor.png
+image: /assets/images/sallad-med-rostade-gronsaker-och-kikartor.jpeg
 
 # Recipe-specific data
 category: Varm mat

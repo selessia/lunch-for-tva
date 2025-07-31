@@ -2,7 +2,7 @@
 layout: recipe
 title: "Melon- och gurksallad med gravad lax"
 description: "Så gott så att man aldrig vill att det ska ta slut."
-image: /assets/images/melon-och-gurksallad-med-gravad-lax.png
+image: /assets/images/melon-och-gurksallad-med-gravad-lax.jpeg
 
 # Recipe-specific data
 category: Sallad
