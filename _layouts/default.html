@@ -34,8 +34,8 @@
         </div>
         </a>
 
-        {% if page.url != '/search.html' %}
-        <form action="{{ '/search.html' | relative_url }}" method="get" class="header-search-form">
+        {% if page.url != '/search' %}
+        <form action="{{ '/search' | relative_url }}" method="get" class="header-search-form">
             <input type="text" name="query" class="header-search-input" placeholder="Sök recept..." aria-label="Sök recept">
             <button type="submit" class="header-search-button" aria-label="Sök">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
