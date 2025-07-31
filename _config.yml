@@ -1,6 +1,5 @@
 title: Lunch för två
-description: >- # this means to ignore newlines until "baseurl:"
-  Simple and delicious recipes for two people.
+description: nyttiga och goda recept för två personer
 baseurl: ""
 url: "https://lunch-for-tva.se"
 permalink: /:categories/:title/
