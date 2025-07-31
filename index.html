@@ -5,15 +5,10 @@ layout: default
 <div class="home-container">
     <div class="title-container">
         <h1 class="site-title">{{ site.title }}</h1>
-        <a href="{{ '/feed.xml' | relative_url }}" class="feed-icon" aria-label="RSS Feed">
-            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
-                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M4 11a9 9 0 0 1 9 9"></path>
-                <path d="M4 4a16 16 0 0 1 16 16"></path>
-                <circle cx="5" cy="19" r="1"></circle>
-            </svg>
-        </a>
     </div>
+
+    <p class="site-subheader">Enkla och goda recept för två personer.</p>
+
     {% assign featured_post = site.posts.first %}
 
     <a href="{{ featured_post.url | relative_url }}" class="featured-post">

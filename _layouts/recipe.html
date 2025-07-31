@@ -5,8 +5,8 @@ layout: default # Assumes you have a default layout with the <head> and <body> t
 <article class="recipe">
 
     <h1>{{ page.title }}</h1>
-    <p class="description">{{ page.description }}</p>
     <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="recipe-image">
+    <p class="recipe-description">{{ page.description }}</p>
 
     <div class="recipe-body">
         <div class="ingredients">

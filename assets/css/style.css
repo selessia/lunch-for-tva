@@ -1,3 +1,29 @@
+:root {
+    --font-header: 'Montserrat', sans-serif;
+    --font-subheader: 'Allura', cursive;
+    --font-body: 'Lato', sans-serif;
+}
+
+body {
+    font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
+    font-family: var(--font-header);
+}
+
+.site-subheader {
+    font-family: var(--font-subheader);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem; /* Adjust size as needed */
+    color: #666;
+    text-align: left;
+    margin-top: -2rem; /* Pulls it closer to the title */
+    margin-bottom: 2.5rem;
+}
+
+
 /* Homepage Grid Layout */
 .home-container {
     max-width: 1200px;
@@ -14,10 +40,6 @@
     margin-bottom: 2rem;
 }
 
-/* Remove the original margin from the h1 */
-.site-title {
-    margin-bottom: 0;
-}
 
 /* Style the feed icon link */
 .feed-icon {
@@ -29,9 +51,17 @@
     color: #e67e22; /* A slightly darker orange on hover */
 }
 .site-title {
-    margin-bottom: 2rem;
+    margin-bottom: 0;
     font-size: 2.5rem;
     font-weight: bold;
+}
+.site-footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 4rem; /* Adds space above the footer */
+    border-top: 1px solid #e0e0e0; /* A subtle top border */
+    color: #888;
+    font-size: 0.9rem;
 }
 
 /* Base styling for all post links */
@@ -66,7 +96,7 @@
 
 /* Featured Post Specific Styling */
 .featured-post .post-image-container {
-    height: 400px; /* Taller image for the featured post */
+    height: 300px; /* Taller image for the featured post */
 }
 
 /* Grid for the rest of the posts */
@@ -116,12 +146,18 @@
 }
 
 /* Basic Recipe Styling */
-.recipe { max-width: 800px; margin: 2rem auto; font-family: sans-serif; }
+.recipe { max-width: 800px; margin: 2rem auto; font-family: sans-serif; padding: 0 1rem; }
+.recipe-description {
+    font-style: italic;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+}
 .recipe-image {
     max-width: 500px;
     width: 100%;
     display: block;
-    margin: 0 auto 2rem auto;
+    margin: 0 auto;
 }
 .recipe-meta { display: flex; justify-content: space-around; background: #f9f9f9; padding: 1rem; border-radius: 8px; margin-bottom: 2rem; }
 .recipe-body { display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; }
@@ -157,4 +193,35 @@
 /* Ensure the first subheader doesn't have extra top margin */
 .ingredient-subheader:first-child {
     margin-top: 0.5rem;
+}
+
+/* --- Responsive Mobile Styles --- */
+@media (max-width: 768px) {
+
+    /* Adjust font sizes for better readability on smaller screens */
+    .site-title {
+        font-size: 2rem;
+    }
+
+    .featured-post h2 {
+        font-size: 1.5rem;
+    }
+
+    .recipe h1 {
+        font-size: 1.8rem;
+    }
+
+    /* --- Recipe Page Layout --- */
+    /* Stack ingredients and instructions vertically */
+    .recipe-body {
+        grid-template-columns: 1fr; /* Change grid to a single column */
+        gap: 1.5rem; /* Adjust the gap between the sections */
+    }
+
+    /* Stack the recipe meta info vertically */
+    .recipe-meta {
+        flex-direction: column;
+        gap: 0.75rem;
+        align-items: flex-start;
+    }
 }
