@@ -1,0 +1,41 @@
+---
+layout: default
+title: Search
+---
+
+<div class="search-page-container">
+    <h1>Sök recept</h1>
+
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Sök på receptnamn eller ingredienser...">
+        <ul id="results-container"></ul>
+    </div>
+</div>
+
+<!-- Add the script that makes the search work -->
+<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
+<script>
+    // Initialize Simple-Jekyll-Search and store the instance in a variable
+    var sjs = SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ "/search.json" | relative_url }}',
+        searchResultTemplate: '<li><a href="{url}"><h3>{title}</h3></a><p>{description}</p></li>',
+        noResultsText: '<li>No results found.</li>',
+        limit: 15,
+        fuzzy: false,
+        searchFields: ['title', 'description', 'ingredients']
+    });
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchQuery = urlParams.get('query');
+
+    // If a query exists, populate the search box and perform the search
+    if (searchQuery) {
+        const searchInput = document.getElementById('search-input');
+        searchInput.value = searchQuery;
+        setTimeout(function () {
+            sjs.search(searchQuery); // Use the public search() method
+        }, 300)
+    }
+</script>

@@ -3,12 +3,6 @@ layout: default
 ---
 
 <div class="home-container">
-    <div class="title-container">
-        <h1 class="site-title">{{ site.title }}</h1>
-    </div>
-
-    <p class="site-subheader">Enkla och goda recept för två personer.</p>
-
     {% assign featured_post = site.posts.first %}
 
     <a href="{{ featured_post.url | relative_url }}" class="featured-post">

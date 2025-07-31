@@ -1,0 +1,47 @@
+header {
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .title-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .site-title {
+    margin: 0;
+    font-size: 4rem;
+    font-weight: bold;
+  }
+
+  .site-subheader {
+    font-family: var(--font-subheader);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    color: #666;
+    text-align: left;
+    margin-top: -2rem;
+    margin-bottom: 1rem;
+  }
+}
+
+// 2. FOOTER
+.site-footer {
+  padding: 2rem 1rem;
+  margin-top: 4rem;
+  border-top: 1px solid #e0e0e0;
+  color: #888;
+  font-size: 0.9rem;
+
+  .feed-icon {
+    color: #000;
+    transition: color 0.2s ease-in-out;
+  }
+
+  .feed-icon:hover {
+    color: #e67e22;
+  }
+}
