@@ -99,6 +99,12 @@
     align-items: flex-start;
     gap: 1.5rem;
   }
+  .header-search-form {
+    width: 100%;
+    .header-search-input {
+      width: 100%;
+    }
+  }
 
   .site-branding .site-title {
     font-size: 3rem;
