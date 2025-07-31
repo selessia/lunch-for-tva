@@ -2,7 +2,7 @@
 layout: recipe
 title: "Cobb-sallad utan kyckling"
 description: "Det brukar vara kyckling i Cobb-sallad, men det är det inte i den här. Detta är en av mina absoluta favoritsallader!"
-image: /assets/images/cobb-sallad-utan-kyckling.png
+image: /assets/images/cobb-sallad-utan-kyckling.jpeg
 
 # Recipe-specific data
 category: Sallad
@@ -10,13 +10,15 @@ servings: "2 portioner"
 
 ingredients:
   - name: bacon
-    quantity: 4 skivor
+    quantity: 3 skivor (ett halvt paket)
   - name: ägg
     quantity: 3
   - name: ädelost, smulad
-    quantity: 50 g
-  - name: körsbärstomater
+    quantity: 25 g
+  - name: körsbärstomater, i halvor eller fjärdedelar
     quantity: 75 g
+  - name: gurka, i tunna halvmånar
+    quantity: 1
   - name: romansallad (250 g), sköljd, torkad och skuren i bitar
     quantity: 1
   - name: avokado skivad
@@ -37,11 +39,11 @@ ingredients:
         quantity: 
 
 instructions:
-  - Koka äggen, låt svalna. Skala sedan och skär i bitar.
+  - Koka äggen, låt svalna. Skala sedan och skär i halvor, klyftor eller bitar.
   - Stek bacon. Ställ åt sidan och klipp i småbitar när det svalnat.
   - Blanda ingredienserna till dressingen i en liten burk och skaka ihop.
-  - Blanda den skurna romansalladen med dressingen i en stor skål.
-  - Fördela sallad, avokado, gurka och tomater på 2 tallrikar. Toppa med bacon, ägg, mögelost och salladslök.
+  - Lägg romansallad och gurk-skivor i en stor skål och blanda med dressingen.
+  - Fördela sallad på två tallrikar. Toppa med avokado, tomater, bacon, ägg, ädelost och salladslök.
 ---
 
 ## Källa
