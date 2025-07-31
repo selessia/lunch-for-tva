@@ -7,4 +7,4 @@ default_image: /assets/images/site-logo.png
 
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
