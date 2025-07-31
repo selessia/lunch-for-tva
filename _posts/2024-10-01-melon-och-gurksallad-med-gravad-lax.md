@@ -45,7 +45,7 @@ ingredients:
         quantity: ¼ dl
         
 instructions:
-  - Till den gravade laxen förbereder du gärna [detta recept](/ingrediens/2024/09/30/gravad-lax-med-dill-och-citron.html) och använder hälften här.
+  - Till den gravade laxen förbereder du gärna [detta recept](/ingrediens/gravad-lax-med-dill-och-citron) och använder hälften här.
   - Skiva den gravade laxen.
   - Rosta mandeln försiktigt i en stekpanna på medelhög temperatur några minuter till fin färg.
   - Tärna gurkan.

@@ -37,7 +37,7 @@ ingredients:
         quantity: ½ tsk
         
 instructions:
-  - Till den gravade laxen förbereder du gärna [detta recept](/ingrediens/2024/09/30/gravad-lax-med-dill-och-citron.html) och använder hälften här.
+  - Till den gravade laxen förbereder du gärna [detta recept](/ingrediens/gravad-lax-med-dill-och-citron) och använder hälften här.
   - Koka äggen medelhårda. Skala och skär i halvor.
   - "Dressing: Blanda i en burk och skaka ihop."
   - Hacka, skölj och torka salladen. Lägg den i en stor skål.
