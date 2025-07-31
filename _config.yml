@@ -1,8 +1,8 @@
 title: Lunch för två
 description: >- # this means to ignore newlines until "baseurl:"
   Simple and delicious recipes for two people.
-baseurl: "/lunch-for-tva"
-url: "https://selessia.github.io"
+baseurl: "/"
+url: "https://lunch-for-tva.se"
 default_image: /assets/images/site-logo.png
 twitter_username: jekyllrb
 github_username:  jekyll
