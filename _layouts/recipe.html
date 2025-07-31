@@ -16,7 +16,7 @@ layout: default # Assumes you have a default layout with the <head> and <body> t
                 {% if group.section %}
                 <li class="ingredient-subheader">{{ group.section }}</li>
                 {% for item in group.items %}
-                <li class="ingredient-item">{{ item.quantity }} {{ item.name }}</li>
+                <li class="ingredient-item">{{ item.quantity }} {{ item.name | markdownify | remove: '<p>' | remove: '</p>' }}</li>
                 {% endfor %}
                 {% else %}
                 <li class="ingredient-item">{{ group.quantity }} {{ group.name }}</li>
@@ -28,7 +28,7 @@ layout: default # Assumes you have a default layout with the <head> and <body> t
             <h2>Gör så här</h2>
             <ol>
                 {% for step in page.instructions %}
-                <li>{{ step }}</li>
+                <li>{{ step | markdownify | remove: '<p>' | remove: '</p>' }}</li>
                 {% endfor %}
             </ol>
         </div>
