@@ -16,10 +16,10 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
     font-family: var(--font-subheader);
     font-weight: 400;
     font-style: normal;
-    font-size: 2rem; /* Adjust size as needed */
+    font-size: 2rem;
     color: #666;
     text-align: left;
-    margin-top: -2rem; /* Pulls it closer to the title */
+    margin-top: -2rem;
     margin-bottom: 1rem;
 }
 
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
 
 /* Style the feed icon link */
 .feed-icon {
-    color: #f39c12; /* A classic orange for RSS feeds */
+    color: #000;
     transition: color 0.2s ease-in-out;
 }
 
@@ -57,7 +57,6 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
     font-weight: bold;
 }
 .site-footer {
-    text-align: center;
     padding: 2rem 1rem;
     margin-top: 4rem; /* Adds space above the footer */
     border-top: 1px solid #e0e0e0; /* A subtle top border */
@@ -147,18 +146,18 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
 }
 
 /* Basic Recipe Styling */
-.recipe { max-width: 800px; margin: 2rem auto; font-family: sans-serif; padding: 0 1rem; }
+.recipe { max-width: 800px; margin: 2rem 0; font-family: sans-serif; padding: 0 1rem; }
 .recipe-description {
     font-style: italic;
     max-width: 500px;
-    margin: 0 auto;
+    margin: 0;
     margin-top: 0.5rem;
 }
 .recipe-image {
     max-width: 500px;
     width: 100%;
     display: block;
-    margin: 0 auto;
+    margin: 0;
 }
 .recipe-meta { display: flex; justify-content: space-around; background: #f9f9f9; padding: 1rem; border-radius: 8px; margin-bottom: 2rem; }
 .recipe-body { display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; }
@@ -204,12 +203,20 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
         font-size: 3rem;
     }
 
+    .site-subheader {
+        font-size: 1.5rem;
+    }
+
+    .featured-post .post-image-container {
+        height: 200px;
+    }
+
     .featured-post h2 {
         font-size: 1.5rem;
     }
 
     .recipe h1 {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
 
     /* --- Recipe Page Layout --- */

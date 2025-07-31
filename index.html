@@ -18,6 +18,7 @@ layout: default
         </div>
         <div class="post-content">
             <h2>{{ featured_post.title }}</h2>
+            <p>{{featured_post.description}}</p>
             <div class="post-meta">
                 <span>
                     {% assign m = featured_post.date | date: "%-m" | minus: 1 %}
@@ -36,6 +37,7 @@ layout: default
             </div>
             <div class="post-content">
                 <h3>{{ post.title }}</h3>
+                <p>{{post.description}}</p>
                 <div class="post-meta">
                     <span>
                         {% assign m = post.date | date: "%-m" | minus: 1 %}

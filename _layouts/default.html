@@ -19,7 +19,6 @@
     {{ content }}
 </main>
 <footer class="site-footer">
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
     <div>
         <a href="{{ '/feed.xml' | relative_url }}" class="feed-icon" aria-label="RSS Feed">
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
@@ -30,6 +29,7 @@
             </svg>
         </a>
     </div>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
 </footer>
 </body>
 </html>
