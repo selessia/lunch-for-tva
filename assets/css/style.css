@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
     color: #666;
     text-align: left;
     margin-top: -2rem; /* Pulls it closer to the title */
-    margin-bottom: 2.5rem;
+    margin-bottom: 1rem;
 }
 
 
@@ -28,7 +28,8 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
 .home-container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem 1rem;
+    margin-top: 0.5rem;
+    padding: 0 1rem;
 }
 
 /* Styling for the title and feed icon container */
@@ -51,8 +52,8 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
     color: #e67e22; /* A slightly darker orange on hover */
 }
 .site-title {
-    margin-bottom: 0;
-    font-size: 2.5rem;
+    margin: 0;
+    font-size: 4rem;
     font-weight: bold;
 }
 .site-footer {
@@ -200,7 +201,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .featured-post h2, .post-card h3 {
 
     /* Adjust font sizes for better readability on smaller screens */
     .site-title {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .featured-post h2 {
