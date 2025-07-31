@@ -8,6 +8,10 @@ layout: default
     <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="recipe-image">
     <p class="recipe-description">{{ page.description }}</p>
 
+    <div class="recipe-notes">
+        {{ content }}
+    </div>
+
     <div class="recipe-body">
         <div class="ingredients">
             <h2>Ingredienser</h2>
@@ -38,9 +42,8 @@ layout: default
             </svg>
             Dela recept</button>
     </div>
-
-    <div class="recipe-notes">
-        {{ content }}
+    <div class="recipe-attribution">
+        {{ page.attribution | markdownify }}
     </div>
 
 </article>

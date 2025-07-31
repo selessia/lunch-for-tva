@@ -48,7 +48,6 @@ instructions:
    - Krydda äggen med peppar, och ställ tillbaka i ugnen i 5 minuter.
    - Servera med bröd.
 
----
-## Källa
+attribution: Receptet kommer från [Italian Food Forever](https://www.italianfoodforever.com/2022/06/roasted-mediterranean-vegetables-with-eggs/)
 
-Det här receptet kommer härifrån: https://www.italianfoodforever.com/2022/06/roasted-mediterranean-vegetables-with-eggs/
+---

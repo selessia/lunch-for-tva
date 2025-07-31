@@ -79,12 +79,11 @@ instructions:
   - I en stor skål, blanda romansallad, körsbärstomater, rödlök, gurka och oliver. Ha i dressingen och blanda runt. Lägg upp på 2 tallrikar.
   - Skiva kycklingen och lägg på den.
   - Skeda över tsatsiki och strö över tärnad fetaost.
-  
+
+attribution: |
+  Den här är baserad på [receptet från Jo Cooks](https://www.jocooks.com/recipes/tzatziki-chicken-salad/) 
+  men kycklingen kommer [foodiecrush](https://www.foodiecrush.com/easy-chicken-gyros-with-tzatziki-sauce/).
+  Tsatsikin kommer [recipetineats](https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/),
+  och dressingen kommer [foodiecrush](https://www.foodiecrush.com/greek-salad-with-avocado/).
+
 ---
-
-## Källor
-
-Den här är baserad på [det här receptet](https://www.jocooks.com/recipes/tzatziki-chicken-salad/) 
-men kycklingen kommer [härifrån](https://www.foodiecrush.com/easy-chicken-gyros-with-tzatziki-sauce/), 
-tsatsikin kommer [härifrån](https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/), 
-och dressingen kommer [härifrån](https://www.foodiecrush.com/greek-salad-with-avocado/). 

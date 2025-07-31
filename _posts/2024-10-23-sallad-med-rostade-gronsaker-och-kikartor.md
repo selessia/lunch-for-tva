@@ -61,7 +61,6 @@ instructions:
   - "Gör peston: Lägg basilika, nötter, olja, citron, vitlök och salt i en mixerbunke. Mixa till en slät blandning. Späd med vatten till lagom konsistens. Den ska vara ganska tjock."
   - När grönsakerna är klara, ha i dem i skålen med quinoa. Blanda i peston.
   - Dela upp på två tallrikar.
----
-## Källa
 
-Receptet kommer härifrån: https://www.ambitiouskitchen.com/roasted-veggie-chickpea-pesto-quinoa-salad/
+attribution: Receptet kommer från [Ambitious Kitchen](https://www.ambitiouskitchen.com/roasted-veggie-chickpea-pesto-quinoa-salad/)
+---
