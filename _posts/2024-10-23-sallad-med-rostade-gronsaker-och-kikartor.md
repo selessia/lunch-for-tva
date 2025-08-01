@@ -7,6 +7,9 @@ image: /assets/images/sallad-med-rostade-gronsaker-och-kikartor.webp
 # Recipe-specific data
 category: Varm mat
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
 
 ingredients:
   - section: "Grönsaker och kikärtor"

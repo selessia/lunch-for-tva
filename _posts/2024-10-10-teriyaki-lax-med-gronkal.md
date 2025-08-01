@@ -7,6 +7,8 @@ image: /assets/images/teriyaki-lax-med-gronkal.webp
 # Recipe-specific data
 category: Varm mat
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - name: grönkål

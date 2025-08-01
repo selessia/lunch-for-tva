@@ -7,6 +7,8 @@ image: /assets/images/raksallad.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - name: frysta oskalade räkor (blir ca 160 g skalade)

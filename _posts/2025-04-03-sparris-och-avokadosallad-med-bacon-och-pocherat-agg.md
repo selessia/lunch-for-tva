@@ -7,6 +7,8 @@ image: /assets/images/sparris-och-avokadosallad-med-bacon-och-pocherat-agg.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - name: bladig salladsmix

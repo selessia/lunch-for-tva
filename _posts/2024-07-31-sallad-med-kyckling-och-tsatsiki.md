@@ -7,6 +7,8 @@ image: /assets/images/sallad-med-kyckling-och-tsatsiki.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - section: "Kyckling"

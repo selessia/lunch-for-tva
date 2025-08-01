@@ -7,6 +7,8 @@ image: /assets/images/green-goddess-holy-greens-copycat.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - section: "Snabbpicklad vitkål"

@@ -7,6 +7,9 @@ image: /assets/images/sallad-med-jordgubbar-avokado-och-vallmofrodressing.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
 
 ingredients:
   - name: baby bladspenat, ta bort stora stjälkar

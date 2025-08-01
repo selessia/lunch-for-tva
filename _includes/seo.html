@@ -74,7 +74,13 @@
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
     ]
-    }
+    },
+    {% if page.calories %}
+    "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "{{ page.calories }} kcal"
+    },
+    {% endif %}
 </script>
 {% endif %}
 

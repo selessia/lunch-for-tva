@@ -7,6 +7,9 @@ image: /assets/images/sallad-med-arter-och-kramig-dressing.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
 
 ingredients:
 - name: frysta gröna ärter

@@ -7,6 +7,8 @@ image: /assets/images/caesar-sallad-med-halloumi.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - name: halloumi

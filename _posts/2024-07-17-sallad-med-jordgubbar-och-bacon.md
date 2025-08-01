@@ -7,6 +7,8 @@ image: /assets/images/sallad-med-jordgubbar-och-bacon.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - name: mandelspån

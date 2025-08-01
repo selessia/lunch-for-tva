@@ -7,6 +7,10 @@ image: /assets/images/grekisk-sallad-med-avokado.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
+calories: 596
 
 ingredients:
   - name: gurka, lätt skalad och skuren i 1,25-cm skivor

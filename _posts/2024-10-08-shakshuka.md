@@ -7,6 +7,9 @@ image: /assets/images/shakshuka.webp
 # Recipe-specific data
 category: Varm mat
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
 
 ingredients:
   - name: olivolja

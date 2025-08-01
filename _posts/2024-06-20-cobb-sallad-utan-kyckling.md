@@ -7,6 +7,9 @@ image: /assets/images/cobb-sallad-utan-kyckling.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+calories: 640
 
 ingredients:
   - name: bacon

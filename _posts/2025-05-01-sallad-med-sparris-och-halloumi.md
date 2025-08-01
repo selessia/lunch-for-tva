@@ -7,6 +7,9 @@ image: /assets/images/sallad-med-sparris-och-halloumi.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
 
 ingredients:
   - section: "Pesto-dressing"

@@ -7,6 +7,9 @@ image: /assets/images/sallad-med-jordgubbar-och-kvibille-graddadel.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
 
 ingredients:
   - name: bladig salladsmix

@@ -7,6 +7,9 @@ image: /assets/images/rostade-medelhavsgronsaker-med-agg.webp
 # Recipe-specific data
 category: Varm mat
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+  - VegetarianDiet
 
 ingredients:
   - name: aubergine

@@ -7,6 +7,8 @@ image: /assets/images/pastasallad-med-pesto-dressing.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
 
 ingredients:
   - section: "Dressing"
