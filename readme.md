@@ -1,6 +1,9 @@
 # Lunch för två
 Recipe blog (Jekyll)
 
+## Tips
+[Recipe at Schema.org](https://schema.org/Recipe)
+
 ## Setting up the dev env
 1. Install rbenv (a Ruby version manager)
 ```sh

@@ -1,11 +1,9 @@
-// 1. FONT DEFINITIONS
 :root {
   --font-header: 'Montserrat', sans-serif;
   --font-subheader: 'Allura', cursive;
   --font-body: 'Lato', sans-serif;
 }
 
-// 2. GLOBAL STYLES
 body {
   font-family: var(--font-body);
   max-width: 800px;

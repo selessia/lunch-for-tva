@@ -3,7 +3,7 @@ description: nyttiga och goda recept för två personer
 baseurl: ""
 url: "https://lunch-for-tva.se"
 permalink: /:categories/:title/
-default_image: /assets/images/site-logo.png
+default_image: /assets/images/sparris-sallad-med-radisor-och-fetaost.webp
 
 plugins:
   - jekyll-feed

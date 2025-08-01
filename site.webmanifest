@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Lunch för två: nyttiga och goda recept för två personer",
+  "short_name": "Lunch för två",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",

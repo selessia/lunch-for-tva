@@ -19,3 +19,45 @@
 {% else %}
 <meta name="twitter:image" content="{{ site.default_image | absolute_url }}">
 {% endif %}
+
+{% if page.layout == 'recipe' %}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "Recipe",
+        "name": "{{ page.title | escape }}",
+        "image": [
+            "{{ page.image | absolute_url }}"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "{{ site.author | default: site.title | escape }}"
+        },
+        "datePublished": "{{ page.date | date_to_xmlschema }}",
+        "description": "{{ page.description | escape }}"
+    {% if page.diet %}
+    ,"suitableForDiet": [
+    {% for diet_type in page.diet %}
+    "{{ diet_type }}"{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+    {% endif %}
+    {% if page.servings %}
+    ,"recipeYield": "{{ page.servings | escape }}"
+    {% endif %}
+    ,"recipeIngredient": [
+    {% for group in page.ingredients %}{% for item in group.items %}"{{ item.quantity }} {{ item.name }}"{% unless forloop.last and forloop.parentloop.last %},{% endunless %}
+    {% endfor %}{% endfor %}
+    ],
+    "recipeInstructions": [
+    {% for step in page.instructions %}
+    {
+    "@type": "HowToStep",
+    "text": "{{ step | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+    }
+</script>
+{% endif %}
+
