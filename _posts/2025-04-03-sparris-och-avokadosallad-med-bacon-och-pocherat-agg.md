@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sparris- och avokadosallad med bacon och pocherat ägg"
 description: "Ännu en sallad med sparris! Det är roligt med pocherade ägg för det är verkligen inget jag gör särskilt ofta."
-image: /assets/images/sparris-och-avokadosallad-med-bacon-och-pocherat-agg.jpeg
+image: /assets/images/sparris-och-avokadosallad-med-bacon-och-pocherat-agg.webp
 
 # Recipe-specific data
 category: Sallad

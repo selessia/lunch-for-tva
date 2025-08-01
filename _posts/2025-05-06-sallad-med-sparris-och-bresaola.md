@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med sparris och bresaola"
 description: "Ännu en sallad med sparris, denna gång även med bresaola och burrata. Jättegott!"
-image: /assets/images/sallad-med-sparris-och-bresaola.jpeg
+image: /assets/images/sallad-med-sparris-och-bresaola.webp
 
 # Recipe-specific data
 category: Sallad

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Caesar-sallad med halloumi"
 description: "En nästan vegetarisk variant av caesar-sallad (bortsett från sardellerna)."
-image: /assets/images/caesar-sallad-med-halloumi.jpeg
+image: /assets/images/caesar-sallad-med-halloumi.webp
 
 # Recipe-specific data
 category: Sallad

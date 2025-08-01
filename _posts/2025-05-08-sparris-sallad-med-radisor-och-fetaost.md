@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sparris-sallad med rädisor och fetaost"
 description: "Här är en väldigt fräsch och god sallad med sparris! "
-image: /assets/images/sparris-sallad-med-radisor-och-fetaost.jpeg
+image: /assets/images/sparris-sallad-med-radisor-och-fetaost.webp
 
 # Recipe-specific data
 category: Sallad

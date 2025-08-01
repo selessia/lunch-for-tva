@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med gravad lax, sparris och pepparrot"
 description: "Den här salladen hittade min man på, men han brukar ha rökt lax. Jag föredrar gravad lax! Så när jag gör den här salladen blir det gravad."
-image: /assets/images/sallad-med-gravad-lax-sparris-och-pepparrot.jpeg
+image: /assets/images/sallad-med-gravad-lax-sparris-och-pepparrot.webp
 
 # Recipe-specific data
 category: Sallad

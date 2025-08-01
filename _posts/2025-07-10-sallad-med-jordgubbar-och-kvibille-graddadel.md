@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med jordgubbar och Kvibille Gräddädel"
 description: "Här är en enkel och god sallad med jordgubbar!"
-image: /assets/images/sallad-med-jordgubbar-och-kvibille-graddadel.jpeg
+image: /assets/images/sallad-med-jordgubbar-och-kvibille-graddadel.webp
 
 # Recipe-specific data
 category: Sallad

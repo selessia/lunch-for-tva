@@ -2,7 +2,7 @@
 layout: recipe
 title: "Shakshuka"
 description: "Nu börjar det bli lite kyligare ute, så det kan passa med varmare mat även till lunch. Jag använder en traktörpanna med lock till den här."
-image: /assets/images/shakshuka.jpeg
+image: /assets/images/shakshuka.webp
 
 # Recipe-specific data
 category: Varm mat

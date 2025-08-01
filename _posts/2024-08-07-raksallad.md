@@ -2,7 +2,7 @@
 layout: recipe
 title: "Räksallad"
 description: "Detta är som en klassisk räkmacka men i salladsform. Nyttigare och jisses vad gott. Kanske den godaste salladen jag gjort hittills."
-image: /assets/images/raksallad.jpeg
+image: /assets/images/raksallad.webp
 
 # Recipe-specific data
 category: Sallad

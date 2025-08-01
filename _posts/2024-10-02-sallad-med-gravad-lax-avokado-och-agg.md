@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med gravad lax, avokado och ägg"
 description: "Ännu en sallad med gravad lax! Den här är väldigt annorlunda mot den andra, men också väldigt god och fräsch!"
-image: /assets/images/sallad-med-gravad-lax-avokado-och-agg.jpeg
+image: /assets/images/sallad-med-gravad-lax-avokado-och-agg.webp
 
 # Recipe-specific data
 category: Sallad

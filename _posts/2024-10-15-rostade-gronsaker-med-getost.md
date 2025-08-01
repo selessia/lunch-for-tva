@@ -2,7 +2,7 @@
 layout: recipe
 title: "Rostade grönsaker med getost"
 description: "Det här blir som en varm sallad!"
-image: /assets/images/rostade-gronsaker-med-getost.jpeg
+image: /assets/images/rostade-gronsaker-med-getost.webp
 
 # Recipe-specific data
 category: Varm mat

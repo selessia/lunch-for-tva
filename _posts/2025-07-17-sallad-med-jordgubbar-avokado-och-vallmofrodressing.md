@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med jordgubbar, avokado och vallmofrödressing"
 description: "Ännu en smarrig sommar-sallad med jordgubbar!"
-image: /assets/images/sallad-med-jordgubbar-avokado-och-vallmofrodressing.jpeg
+image: /assets/images/sallad-med-jordgubbar-avokado-och-vallmofrodressing.webp
 
 # Recipe-specific data
 category: Sallad

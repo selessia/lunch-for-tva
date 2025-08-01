@@ -2,7 +2,7 @@
 layout: recipe
 title: "Ljummen biffsallad med teriyaki"
 description: "Det här är kanske lite mer middag än lunch, men supergott om man vill lyxa till det lite! Tänk på att inte översteka köttet."
-image: /assets/images/ljummen-biffsallad-med-teriyaki.jpeg
+image: /assets/images/ljummen-biffsallad-med-teriyaki.webp
 
 # Recipe-specific data
 category: Sallad

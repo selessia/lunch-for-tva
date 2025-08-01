@@ -2,7 +2,7 @@
 layout: recipe
 title: "Caesar-sallad med chicken nuggets"
 description: "Med färdiga chicken nuggets som man gör klart i ugnen går det snabbt och lätt att få till en jättegod caesar-sallad! "
-image: /assets/images/caesar-sallad-med-chicken-nuggets.jpeg
+image: /assets/images/caesar-sallad-med-chicken-nuggets.webp
 
 # Recipe-specific data
 category: Sallad

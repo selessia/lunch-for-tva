@@ -2,7 +2,7 @@
 layout: recipe
 title: "Cobb-sallad utan kyckling"
 description: "Det brukar vara kyckling i Cobb-sallad, men det är det inte i den här. Detta är en av mina absoluta favoritsallader!"
-image: /assets/images/cobb-sallad-utan-kyckling.jpeg
+image: /assets/images/cobb-sallad-utan-kyckling.webp
 
 # Recipe-specific data
 category: Sallad

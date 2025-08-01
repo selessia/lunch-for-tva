@@ -2,7 +2,7 @@
 layout: recipe
 title: "Gravad lax med dill och citron"
 description: "De nästa två salladerna jag ska lägga upp här innehåller gravad lax. Det gör man superenkelt själv enligt till exempel nedanstående recept. Detta räcker till fyra portioner sallad, så två olika sallader för två personer i det här fallet."
-image: /assets/images/gravad-lax-med-dill-och-citron.jpeg
+image: /assets/images/gravad-lax-med-dill-och-citron.webp
 
 # Recipe-specific data
 category: Ingrediens

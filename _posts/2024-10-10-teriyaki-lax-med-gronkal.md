@@ -2,7 +2,7 @@
 layout: recipe
 title: "Teriyaki-lax med grönkål"
 description: "Jättegott och nyttigt!"
-image: /assets/images/teriyaki-lax-med-gronkal.jpeg
+image: /assets/images/teriyaki-lax-med-gronkal.webp
 
 # Recipe-specific data
 category: Varm mat

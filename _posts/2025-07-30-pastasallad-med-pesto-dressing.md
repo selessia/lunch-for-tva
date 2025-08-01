@@ -2,7 +2,7 @@
 layout: recipe
 title: "Pastasallad med pesto-dressing"
 description: "Den här pasta-salladen är jättegod! Den behöver vila i kylskåp i minst en timme innan man äter den."
-image: /assets/images/pastasallad-med-pesto-dressing.jpeg
+image: /assets/images/pastasallad-med-pesto-dressing.webp
 
 # Recipe-specific data
 category: Sallad

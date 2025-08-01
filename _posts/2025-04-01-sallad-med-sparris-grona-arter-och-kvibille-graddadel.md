@@ -2,7 +2,7 @@
 layout: recipe
 title: "Sallad med sparris, gröna ärtor och Kvibille gräddädel"
 description: "Jag älskar sparris, och när det är säsong äter vi väldigt mycket sparris-sallad. Just denna är en favorit."
-image: /assets/images/sallad-med-sparris-grona-arter-och-kvibille-graddadel.jpeg
+image: /assets/images/sallad-med-sparris-grona-arter-och-kvibille-graddadel.webp
 
 # Recipe-specific data
 category: Sallad
