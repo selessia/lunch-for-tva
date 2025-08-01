@@ -5,6 +5,10 @@ url: "https://lunch-for-tva.se"
 permalink: /:categories/:title/
 default_image: /assets/images/sparris-sallad-med-radisor-och-fetaost.webp
 
+paginate: 9
+paginate_path: "/sida/:num/"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate

@@ -3,27 +3,9 @@ layout: default
 ---
 
 <div class="home-container">
-    {% assign featured_post = site.posts.first %}
 
-    <a href="{{ featured_post.url | relative_url }}" class="featured-post">
-        <div class="post-image-container">
-            <img src="{{ featured_post.image | default: '/assets/images/placeholder.jpg' | relative_url }}"
-                 alt="{{ featured_post.title }}">
-        </div>
-        <div class="post-content">
-            <h2>{{ featured_post.title }}</h2>
-            <p>{{featured_post.description}}</p>
-            <div class="post-meta">
-                <span>
-                    {% assign m = featured_post.date | date: "%-m" | minus: 1 %}
-                    den {{ featured_post.date | date: "%-d" }} {{ site.data.sv_months[m].name }} {{ featured_post.date | date: "%Y" }}
-                </span>
-            </div>
-        </div>
-    </a>
-
-    <div class="post-grid">
-        {% for post in site.posts offset:1 %}
+    <div class="post-grid-container {% if paginator.page == 1 %}has-featured-post{% endif %}">
+        {% for post in paginator.posts %}
         <a href="{{ post.url | relative_url }}" class="post-card">
             <div class="post-image-container">
                 <img src="{{ post.image | default: '/assets/images/placeholder.jpg' | relative_url }}"
@@ -43,3 +25,30 @@ layout: default
         {% endfor %}
     </div>
 </div>
+
+<!-- Pagination Navigation -->
+{% if paginator.total_pages > 1 %}
+<nav class="pagination {% if paginator.page == 1 %}is-centered{% endif %}">
+    {% if paginator.page == 1 %}
+    <a href="{{ paginator.next_page_path }}" class="pagination-button load-more">Fler recept &raquo;</a>
+    {% else %}
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="pagination-button">
+        &laquo; Nyare recept
+    </a>
+    {% else %}
+    <span class="pagination-button disabled">&laquo; Nyare recept</span>
+    {% endif %}
+
+    <span class="page-number">Sida {{ paginator.page }} av {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="pagination-button">
+        Äldre recept &raquo;
+    </a>
+    {% else %}
+    <span class="pagination-button disabled">Äldre recept &raquo;</span>
+    {% endif %}
+    {% endif %}
+</nav>
+{% endif %}
