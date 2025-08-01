@@ -1,9 +1,11 @@
+// 1. SEARCH PAGE CONTAINER
 .search-page-container {
   h1 {
     font-family: var(--font-header);
   }
 }
 
+// 2. SEARCH INPUT
 #search-input {
   width: 100%;
   padding: 0.75rem;
@@ -14,26 +16,39 @@
   box-sizing: border-box;
 }
 
+// 3. SEARCH RESULTS LIST
 #results-container {
   list-style-type: none;
   padding: 0;
+}
 
-  li {
-    padding: 1.5rem 0;
-    border-bottom: 1px solid #eee;
-    &:last-child {
-      border-bottom: none;
-    }
+.search-result-item a {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #eee;
+  text-decoration: none;
+  color: #333;
+
+  &:hover h3 {
+    color: #e67e22;
   }
+}
 
-  a {
-    text-decoration: none;
-    color: #333;
-    &:hover h3 {
-      color: #e67e22;
-    }
-  }
+#results-container li:last-child a {
+  border-bottom: none;
+}
 
+.search-result-image {
+  width: 100px;
+  height: 80px;
+  border-radius: 8px;
+  object-fit: cover;
+  flex-shrink: 0; // Prevents image from shrinking
+}
+
+.search-result-text {
   h3 {
     font-family: var(--font-header);
     margin: 0 0 0.5rem 0;

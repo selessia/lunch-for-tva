@@ -3,7 +3,6 @@ layout: null
 ---
 [
 {% for post in site.posts %}
-{% comment %} Capture all ingredient names into a single string {% endcomment %}
 {% capture ingredient_list %}
 {% for group in post.ingredients %}
 {% if group.section %}
@@ -21,6 +20,7 @@ layout: null
 "url": "{{ post.url | relative_url }}",
 "date": "{{ post.date | date_to_string }}",
 "description": "{{ post.description | escape }}",
+"image": "{{ post.image | default: '/assets/images/placeholder.jpg' | relative_url }}",
 "ingredients": "{{ ingredient_list | strip_newlines | strip | escape }}"
 }
 {% unless forloop.last %},{% endunless %}

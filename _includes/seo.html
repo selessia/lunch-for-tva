@@ -20,6 +20,23 @@
 <meta name="twitter:image" content="{{ site.default_image | absolute_url }}">
 {% endif %}
 
+<!-- Sitelinks Search Box -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "{{ "/" | absolute_url }}",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "{{ '/search.html' | absolute_url }}?query={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+        }
+    }
+</script>
+
 {% if page.layout == 'recipe' %}
 <script type="application/ld+json">
     {

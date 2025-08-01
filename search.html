@@ -20,8 +20,17 @@ title: Search
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ "/search.json" | relative_url }}',
-        searchResultTemplate: '<li><a href="{url}"><h3>{title}</h3></a><p>{description}</p></li>',
-        noResultsText: '<li>Hittade inga recept.</li>',
+        searchResultTemplate: `
+            <li class="search-result-item">
+                <a href="{url}">
+                    <img src="{image}" alt="{title}" class="search-result-image" />
+                    <div class="search-result-text">
+                        <h3>{title}</h3>
+                        <p>{description}</p>
+                    </div>
+                </a>
+            </li>`,
+        noResultsText: '<li>Inga recept hittades.</li>',
         limit: 15,
         fuzzy: false,
         searchFields: ['title', 'description', 'ingredients']
