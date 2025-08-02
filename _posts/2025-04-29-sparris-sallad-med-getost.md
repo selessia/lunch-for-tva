@@ -8,8 +8,8 @@ image: /assets/images/sparris-sallad-med-getost.webp
 category: Sallad
 servings: "2 portioner"
 diet:
-  - LowCalorieDiet
   - VegetarianDiet
+calories: 692
 
 ingredients:
   - name: sparris, träiga ändar borttagna

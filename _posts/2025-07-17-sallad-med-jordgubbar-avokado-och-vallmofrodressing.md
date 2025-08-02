@@ -10,6 +10,7 @@ servings: "2 portioner"
 diet:
   - LowCalorieDiet
   - VegetarianDiet
+calories: 565
 
 ingredients:
   - name: baby bladspenat, ta bort stora stjälkar

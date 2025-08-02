@@ -10,6 +10,7 @@ servings: "2 portioner"
 diet:
   - LowCalorieDiet
   - VegetarianDiet
+calories: 471
 
 ingredients:
   - name: sparris, träiga ändar avbrutna

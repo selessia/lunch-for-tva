@@ -7,8 +7,7 @@ image: /assets/images/sallad-med-sparris-och-bresaola.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
-diet:
-  - LowCalorieDiet
+calories: 647
 
 ingredients:
   - name: grön sparris, träiga ändar borttagna
@@ -35,8 +34,8 @@ ingredients:
     items:
       - name: olivolja
         quantity: 1 msk
-      - name: saft från citron
-        quantity: ½ (1½ msk)
+      - name: pressad citron (ca 1 msk)
+        quantity: ½
       - name: flytande honung
         quantity: ½ msk
       - name: vitlök, pressad

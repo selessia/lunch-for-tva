@@ -7,8 +7,7 @@ image: /assets/images/sallad-med-gravad-lax-sparris-och-pepparrot.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
-diet:
-  - LowCalorieDiet
+calories: 628
 
 ingredients:
 - name: salladsmix

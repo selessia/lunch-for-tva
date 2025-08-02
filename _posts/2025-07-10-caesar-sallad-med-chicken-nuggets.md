@@ -7,6 +7,9 @@ image: /assets/images/caesar-sallad-med-chicken-nuggets.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+calories: 563
 
 ingredients:
   - name: frysta chicken nuggets

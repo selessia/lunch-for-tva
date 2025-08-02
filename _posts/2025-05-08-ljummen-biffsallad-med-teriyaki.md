@@ -7,6 +7,9 @@ image: /assets/images/ljummen-biffsallad-med-teriyaki.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
+diet:
+  - LowCalorieDiet
+calories: 554
 
 ingredients:
   - name: entrecote (200 g styck)

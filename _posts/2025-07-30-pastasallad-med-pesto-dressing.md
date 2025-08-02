@@ -9,6 +9,7 @@ category: Sallad
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 602
 
 ingredients:
   - section: "Dressing"
