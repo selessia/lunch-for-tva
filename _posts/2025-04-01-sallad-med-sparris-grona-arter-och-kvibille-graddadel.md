@@ -9,6 +9,7 @@ category: Sallad
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 629
 
 ingredients:
   - name: bladig salladsmix
@@ -22,7 +23,7 @@ ingredients:
   - name: flagad mandel
     quantity: 10 g
   - name: pancetta
-    quantity: 80 g
+    quantity: 75 g
   - name: Kvibille gräddädel
     quantity: 60 g
   - name: sparris

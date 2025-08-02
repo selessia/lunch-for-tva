@@ -9,37 +9,32 @@ category: Sallad
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 562
 
 ingredients:
   - name: bladig salladsmix
-    quantity: 90 g
-  - name: frysta gröna ärtor, tinade
-    quantity: 150 g
-  - name: gurka, lätt skalad, tunt skivad och skuren i halvmånar
-    quantity: 1
-  - name: avokado, skalad och skuren i bitar
-    quantity: 1
-  - name: flagad mandel
-    quantity: 10 g
-  - name: pancetta
-    quantity: 80 g
-  - name: Kvibille gräddädel
-    quantity: 60 g
+    quantity: 65 g
   - name: sparris
     quantity: 250 g
-  - section: "Dressing"
-    items:
-      - name: färsk basilika, tätt packat utan stjälkar
-        quantity: 1 msk
-      - name: finriven parmesan
-        quantity: 1 tsk
-      - name: vitlök
-        quantity: ½ klyfta
-      - name: olivolja
-        quantity: 2 msk
-      - name: rödvinsvinäger
-        quantity: 1 tsk
-        
+  - name: avokado
+    quantity: 1
+  - name: bacon
+    quantity: 70 g (1/2 paket)
+  - name: citronsaft
+    quantity: ½ tsk
+  - name: ägg
+    quantity: 4
+  - name: vatten
+    quantity: 1½ liter
+  - name: ättiksprit 12%
+    quantity: ½ dl
+  - name: apetina vitost
+    quantity: 75 g
+  - name: salt
+    quantity: 2 tsk
+  - name: grovmalen svartpeppar
+    quantity:
+      
 instructions:
 
 - Stek baconskivorna knapriga i stekpannan. Låt rinna av på hushållspapper. Smula baconet när det svalnat.

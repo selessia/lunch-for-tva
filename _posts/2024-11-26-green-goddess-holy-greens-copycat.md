@@ -9,6 +9,7 @@ category: Sallad
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 559
 
 ingredients:
   - section: "Snabbpicklad vitkål"
@@ -69,7 +70,9 @@ ingredients:
         quantity: 75 g
       - name: rostad lök
         quantity: 16 g
-        
+      - name: körsbärstomater
+        quantity: 10 (tillval)
+
 instructions:
 
 - "Vitkål: Skiva tunt och lägg i en skål. Koka upp vatten och blanda i vinäger, salt och socker. Häll blandningen över vitkålen. Massera in med händerna i någon minut. Låt stå i minst 30 minuter, men helst i kylen över natten."
