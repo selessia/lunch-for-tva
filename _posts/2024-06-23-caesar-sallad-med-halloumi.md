@@ -7,18 +7,17 @@ image: /assets/images/caesar-sallad-med-halloumi.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
-diet:
-  - LowCalorieDiet
-
+calories: 637
+            
 ingredients:
   - name: halloumi
     quantity: 1 paket (150 g)
   - section: "Krutonger"
     items:
       - name: ljust bröd (vanlig formfranska funkar)
-        quantity: 2 skivor
+        quantity: 1 skiva
       - name: olivolja
-        quantity: 1 tsk
+        quantity: 1/2 tsk
   - section: "Dressing"
     items:
       - name: creme fraiche
@@ -49,8 +48,8 @@ ingredients:
 instructions:
   - Om brödet är fryst, tina det och låt det svalna helt.
   - Förvärm ugnen till 200 grader.
-  - Dressing: Mixa alla ingredienser med stavmixer till en slät sås.
-  - Krutonger: Skär bort kanterna från brödet och skär brödet i tärningar. Sprid ut på en plåt med bakplåtspapper. Droppa över olivoljan. Kör i ugnen i ca 5-10 minuter, håll koll så det inte bränns.
+  - "Dressing: Mixa alla ingredienser med stavmixer till en slät sås."
+  - "Krutonger: Skär bort kanterna från brödet och skär brödet i tärningar. Sprid ut på en plåt med bakplåtspapper. Droppa över olivoljan. Kör i ugnen i ca 5-10 minuter, håll koll så det inte bränns."
   - Skiva halloumin i tunna skivor och stek i en non-stick panna på medelvärme tills gyllene på båda sidor. Ställ åt sidan.
   - Skölj och hacka romansalladen. Skala gurkan lite och skär den i halvmånar. Blanda gurka och sallad med en skvätt dressing. Blanda sedan i ca hälften av parmesanen. Fördela detta på två tallrikar.
   - Toppa med resten av dressingen, halloumi, krutonger och resten av parmesanen.

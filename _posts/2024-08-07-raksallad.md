@@ -9,6 +9,7 @@ category: Sallad
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 537
 
 ingredients:
   - name: frysta oskalade räkor (blir ca 160 g skalade)

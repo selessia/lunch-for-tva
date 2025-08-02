@@ -10,34 +10,37 @@ servings: "2 portioner"
 diet:
   - LowCalorieDiet
   - VegetarianDiet
+calories: 617
 
 ingredients:
-  - name: aubergine
+  - name: körsbärstomater, halverade
+    quantity: 250 g
+  - name: liten aubergine, skalad och tärnad (1,3 cm bitar)
     quantity: 1
-  - name: röd lök
+  - name: vitlök, pressade
+    quantity: 2 klyftor
+  - name: liten zuccini, tärnad
     quantity: 1
-  - name: zucchini
-    quantity: 2
-  - name: röd paprika
-    quantity: 1
-  - name: gul paprika
-    quantity: 1
-  - name: olivolja
+  - name: kapris
+    quantity: 1 msk
+  - name: kalamata-oliver eller svarta oliver, skivade
+    quantity: 20 g
+  - name: färsk basilika, hackad
     quantity: 2 msk
-  - name: vitlöksklyfta, finhackad
-    quantity: 1
   - name: salt & peppar
     quantity:
-  - name: hackad färsk basilika
-    quantity: 2 msk
-  - name: balsamvinäger
-    quantity: ½ msk
+  - name: torkad oregano
+    quantity: ¼ tsk
+  - name: chiliflakes
+    quantity: ¼ tsk
+  - name: olivolja
+    quantity: 3 msk
+  - name: ägg, rumstempererade
+    quantity: 4
   - section: "Tillbehör"
     items:
-      - name: getost, smulad
-        quantity: 75 g
-      - name: bröd (förslagsvis 3 mini-baguetter)
-        quantity: 150 g
+      - name: minibaguetter
+        quantity: 2
         
 instructions:
 

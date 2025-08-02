@@ -7,8 +7,7 @@ image: /assets/images/melon-och-gurksallad-med-gravad-lax.webp
 # Recipe-specific data
 category: Sallad
 servings: "2 portioner"
-diet:
-  - LowCalorieDiet
+calories: 697
 
 ingredients:
   - section: "Gravad lax"

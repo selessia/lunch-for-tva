@@ -10,6 +10,7 @@ servings: "2 portioner"
 diet:
   - LowCalorieDiet
   - VegetarianDiet
+calories: 557
 
 ingredients:
 - name: frysta gröna ärter

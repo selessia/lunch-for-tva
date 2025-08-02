@@ -9,6 +9,7 @@ category: Varm mat
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 587
 
 ingredients:
   - name: grönkål

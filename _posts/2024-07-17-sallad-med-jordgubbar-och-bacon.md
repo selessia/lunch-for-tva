@@ -9,10 +9,11 @@ category: Sallad
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 597
 
 ingredients:
   - name: mandelspån
-    quantity: 0,5 dl
+    quantity: 2 msk
   - name: bacon
     quantity: ½ paket
   - name: baby bladspenat
@@ -26,15 +27,15 @@ ingredients:
   - name: gurka
     quantity: ¼
   - name: brie-ost
-    quantity: 100 g
+    quantity: 60 g
   - section: "Dressing"
     items:
       - name: olivolja
-        quantity: 2 msk
+        quantity: 1 msk
       - name: vit balsamvinäger
-        quantity: 1 msk
+        quantity: 1/2 msk
       - name: flytande honung
-        quantity: 1 msk
+        quantity: 1/2 msk
       - name: salt & svartpeppar
         quantity:
 

@@ -9,6 +9,7 @@ category: Sallad
 servings: "2 portioner"
 diet:
   - LowCalorieDiet
+calories: 574
 
 ingredients:
   - name: gravad lax
@@ -16,7 +17,7 @@ ingredients:
   - name: avokado
     quantity: 1
   - name: ägg
-    quantity: 3
+    quantity: 2
   - name: gurka
     quantity: ½
   - name: körsbärstomater

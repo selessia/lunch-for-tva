@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Rostade medelhavsgrönsaker med ägg"
+title: "Sallad med rostade grönsaker och kikärtor"
 description: "Ännu en varm sallad. Supergott med kikärtor och champinjoner!"
 image: /assets/images/sallad-med-rostade-gronsaker-och-kikartor.webp
 
@@ -10,6 +10,7 @@ servings: "2 portioner"
 diet:
   - LowCalorieDiet
   - VegetarianDiet
+calories: 574
 
 ingredients:
   - section: "Grönsaker och kikärtor"
@@ -35,9 +36,9 @@ ingredients:
   - section: "Quinoa"
     items:
       - name: okokt quinoa
-        quantity: 0,6 dl
+        quantity: 1 dl
       - name: vatten
-        quantity: 1,2 dl
+        quantity: 2 dl
   - section: "Pesto"
     items:
       - name: basilika
