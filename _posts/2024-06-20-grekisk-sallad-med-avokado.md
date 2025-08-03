@@ -17,19 +17,19 @@ cookTime: "PT0M"
 totalTime: "PT25M"
 
 ingredients:
-  - name: gurka, lätt skalad och skuren i 1,25-cm skivor
+  - name: gurka, lätt skalad och skuren i 1,25-cm skivor, sedan i fjärdedelar
     quantity: 1
   - name: medelstora tomater, i bitar
-    quantity: 340 g
+    quantity: 3
   - name: liten röd lök, tunt skivad
     quantity: ¼
-  - name: kalamata-oliver, urkärnade och halverade
+  - name: urkärnade kalamata-oliver, halverade
     quantity: 1,5 dl
-  - name: bladpersilja, hackad
+  - name: persilja, hackad
     quantity: 2 msk
   - name: avokado, i bitar
     quantity: 1
-  - name: fetaost, i stora bitar
+  - name: fetaost, i stora kuber
     quantity: 150 g
   - section: "Dressing"
     items:
@@ -51,7 +51,7 @@ ingredients:
 instructions:
   - I en stor skål, lägg gurka, tomat, rödlök, oliver och persilja. Lägg avokado i en liten skål för sig.
   - Skaka ihop dressingen i en burk.
-  - Häll ¼ msk av dressingen över avokadon och blanda. Häll resten av dressingen över den övriga salladen och blanda.
+  - Häll en skvätt av dressingen över avokadon och blanda. Häll resten av dressingen över den övriga salladen och blanda.
   - Lägg upp salladen på två tallrikar. Toppa med avokadon och fetaosten.
 
 attribution: Receptet kommer från [foodiecrush](https://www.foodiecrush.com/greek-salad-with-avocado/)
