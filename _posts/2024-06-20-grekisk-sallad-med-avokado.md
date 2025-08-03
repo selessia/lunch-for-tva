@@ -11,6 +11,10 @@ diet:
   - LowCalorieDiet
   - VegetarianDiet
 calories: 596
+keywords: "sallad, sommarsallad, snabb lunch, fetaost, grekisk sallad"
+prepTime: "PT25M"
+cookTime: "PT0M"
+totalTime: "PT25M"
 
 ingredients:
   - name: gurka, lätt skalad och skuren i 1,25-cm skivor

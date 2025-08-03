@@ -82,6 +82,10 @@
     "calories": "{{ page.calories }} kcal"
     },
     {% endif %}
+    {% if page.keywords %}"keywords": "{{ page.keywords | escape }}",{% endif %}
+    {% if page.prepTime %}"prepTime": "{{ page.prepTime }}",{% endif %}
+    {% if page.cookTime %}"cookTime": "{{ page.cookTime }}",{% endif %}
+    {% if page.totalTime %}"totalTime": "{{ page.totalTime }}",{% endif %}
 </script>
 {% endif %}
 
