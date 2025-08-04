@@ -17,6 +17,9 @@
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
+    {% if page.url %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    {% endif %}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5HNSSQGFZN"></script>
     <script>
