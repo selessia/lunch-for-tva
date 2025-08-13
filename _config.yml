@@ -9,6 +9,5 @@ paginate: 9
 paginate_path: "/sida/:num/"
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
