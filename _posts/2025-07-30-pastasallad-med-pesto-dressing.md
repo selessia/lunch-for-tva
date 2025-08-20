@@ -15,9 +15,9 @@ ingredients:
   - section: "Dressing"
     items:
     - name: majonnäs
-      quantity: 10 ml
+      quantity: 10 g
     - name: turkisk yoghurt
-      quantity: 30 ml
+      quantity: 30 g
     - name: vit balsamvinäger
       quantity: 1 tsk
     - name: salt
