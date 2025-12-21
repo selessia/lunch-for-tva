@@ -5,9 +5,7 @@
 }
 
 .header-container {
-  max-width: 800px;
   margin: 0 auto;
-  padding: 0 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -18,9 +16,22 @@
 .header-link:visited {
   color: inherit;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.site-logo {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
 }
 
 .site-branding {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
   .title-container {
     margin-bottom: 0;
   }
@@ -28,6 +39,8 @@
     margin: 0;
     font-size: 4rem;
     font-weight: bold;
+    line-height: 1;
+    white-space: nowrap;
   }
   .site-subheader {
     font-family: var(--font-subheader);
@@ -35,6 +48,8 @@
     font-size: 2rem;
     color: #666;
     margin: 0;
+    line-height: 1;
+    white-space: nowrap;
   }
 }
 
@@ -96,6 +111,12 @@
 @media (max-width: 768px) {
   body {
     margin: 0;
+  }
+
+  .site-logo {
+    width: 56px;
+    height: 56px;
+    object-fit: contain;
   }
 
   .header-container {
