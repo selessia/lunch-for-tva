@@ -14,8 +14,8 @@ calories: 596
 ingredients:
   - name: pasta
     quantity: 175 g
-  - name: torskryggfiléer, tinade
-    quantity: 2 (ca 250 g)
+  - name: torskryggfiléer, tinade (ca 250 g)
+    quantity: 2
   - name: salt och peppar
     quantity:
   - name: olivolja
