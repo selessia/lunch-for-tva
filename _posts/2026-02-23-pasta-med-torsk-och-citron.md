@@ -26,8 +26,8 @@ ingredients:
     quantity: 1
   - name: chiliflakes
     quantity: ¼ tsk
-  - name: citron, rivet skal och saft
-    quantity: ½ skal & 1,5 msk saft
+  - name: citron, rivet skal och 1,5 msk saft
+    quantity: ½
   - name: socker
     quantity: ¼ tsk
   - name: färsk persilja, hackad (plus extra för garnering)
