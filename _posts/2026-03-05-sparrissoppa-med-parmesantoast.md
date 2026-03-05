@@ -22,27 +22,29 @@ ingredients:
     quantity: 1 msk
   - name: vitt vin
     quantity: 0,5 dl
-  - name: grönsaksbuljong (vatten + ½ tärning)
+  - name: vatten
     quantity: 4 dl
+  - name: grönsaksbuljongtärning
+    quantity: ½
   - name: matlagningsgrädde
     quantity: 0,5 dl
-  - name: Salt & svartpeppar
+  - name: salt & svartpeppar
     quantity:
   - section: "Parmesan-toast"
     items:
-      - name: formfranska, gärna bra sort
+      - name: formfranska, helst bra sort
         quantity: 4 skivor
-      - name: Parmesanost (Parmigiano Reggiano), finriven
+      - name: parmesanost, finriven
         quantity: 40 g
       - name: prästost eller annan mild ost, skivad
         quantity: 80 g
-      - name: Vitlök
+      - name: vitlök
         quantity: 1 klyfta
-      - name: Smör (rumsvarmt, för att bre på utsidan)
+      - name: smör (rumsvarmt, för att bre på utsidan)
         quantity: 1 msk
-      - name: Färsk babybladspenat, strimlad
+      - name: färsk babybladspenat, strimlad
         quantity: 20 g
-      - name: Svartpeppar
+      - name: svartpeppar
         quantity:
         
 instructions:
