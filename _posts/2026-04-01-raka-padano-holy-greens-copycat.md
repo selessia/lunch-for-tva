@@ -75,10 +75,10 @@ instructions:
 - Dra av stammarna från grönkålen och skölj bladen noggrant. Hacka dem i småbitar. 
 - Hetta upp oljan i en stekpannan på medelvärme. Ha i grönkålen, med ett par msk vatten om den är torr. Stek under omrörning i 3-5 minuter tills helt mjuk. 
 - Pressa i vitlök och ha i chiliflakes. Låt steka någon minut till. Ta av från värmen och smaka av med salt och ev citron. Låt svalna helt i kylskåp.
-- Quinoa: Koka upp quinoa, vatten och salt, rör om och låt sjuda på låg värme under lock i 15 minuter. Låt vila under lock i ytterligare 5 minuter. Ta av locket och låt svalna.
+- "Quinoa: Koka upp quinoa, vatten och salt, rör om och låt sjuda på låg värme under lock i 15 minuter. Låt vila under lock i ytterligare 5 minuter. Ta av locket och låt svalna."
 - Skala räkorna.
 - Koka ägget.
-- Dressing: Mixa med stavmixer till en slät sås.
+- "Dressing: Mixa med stavmixer till en slät sås."
 - Skölj, torka och hacka salladen. Fördela den på två tallrikar.
 - Skala ägget och skär det i två halvor.
 - Lägg på quinoa, hälften av den marinerade grönkålen, räkor, tomater, ägg och picklad rödlök i små högar ovanpå salladen. 
