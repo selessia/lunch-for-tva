@@ -71,7 +71,7 @@ ingredients:
         
 instructions:
 - Tina räkorna i kylen i god tid.
-- Förbered grönkålen några timmar innan eller dagen innan: 
+- "Förbered grönkålen några timmar innan eller dagen innan:" 
 - Dra av stammarna från grönkålen och skölj bladen noggrant. Hacka dem i småbitar. 
 - Hetta upp oljan i en stekpannan på medelvärme. Ha i grönkålen, med ett par msk vatten om den är torr. Stek under omrörning i 3-5 minuter tills helt mjuk. 
 - Pressa i vitlök och ha i chiliflakes. Låt steka någon minut till. Ta av från värmen och smaka av med salt och ev citron. Låt svalna helt i kylskåp.
