@@ -76,7 +76,7 @@ ingredients:
 instructions:
   - Blanda citron, yoghurt och kryddor i en skål och ha i kycklingen. Blanda runt och låt marinera i 30 minuter i eller över natten i kylskåp.
   - Värm upp stekpanna på medel-hög och ha i 1 msk olivolja. Stek kycklingen ca 5 minuter på första sidan, vänd och stek några minuter på andra sidan eller tills genomlagad (72°). Flytta till en tallrik.
-  - Under tiden, gör tsatsiki: Skär gurkan i halvor på längden och skrapa ur fröna med en tesked. Grovriv gurkan på hushållspapper och pressa ur överflödig vätska. Flytta till en skål. Blanda gurkan med övriga tzatziki-ingredienser. Ställ åt sidan.
+  - "Under tiden, gör tsatsiki: Skär gurkan i halvor på längden och skrapa ur fröna med en tesked. Grovriv gurkan på hushållspapper och pressa ur överflödig vätska. Flytta till en skål. Blanda gurkan med övriga tzatziki-ingredienser. Ställ åt sidan."
   - I en stor skål, blanda romansallad, körsbärstomater, rödlök, gurka och oliver. Ha i dressingen och blanda runt. Lägg upp på 2 tallrikar.
   - Skiva kycklingen och lägg på den.
   - Skeda över tsatsiki och strö över tärnad fetaost.
