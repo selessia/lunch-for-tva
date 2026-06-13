@@ -48,7 +48,7 @@ ingredients:
         
 instructions:
 - Tina räkorna i kylskåp över natten. Klappa dem torra med hushållspapper och lägg dem i en skål. Blanda med 1 msk olivolja, pressad vitlök, salt, svartpeppar och chiliflakes. Ställ åt sidan i 10-20 minuter.
-- Hetta upp en stekpanna på medelhög värme. Lyft upp räkorna ur marinaden och lägg i pannan. Stek i 1-2 minuter tills de är genomvarma (inte för länge, då blir de sega). Flytta räkorna till en skål när de är klara och blanda dem med 2 msk pesto.
+- Hetta upp en stekpanna på medelhög värme. Lyft upp räkorna ur marinaden och lägg i pannan. Stek i 1-2 minuter tills de är genomvarma (inte för länge, då blir de sega). (Om du har råa räkor i stället för kokta så stek dem 1,5 - 2 minuter per sida, totalt ca 3-4 minuter.) Flytta räkorna till en skål när de är klara och blanda dem med 2 msk pesto.
 - Skaka ihop dressingen i en liten burk.
 - Lägg körsbärstomater, ruccola och bönor i en stor skål. Häll över dressingen och blanda.
 - Lägg upp på två tallrikar. Toppa med räkorna och sedan hyvlad parmesan.
