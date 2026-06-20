@@ -20,7 +20,7 @@ ingredients:
     quantity: 280 g
   - name: fetaost, tärnad
     quantity: 150 g
-  - name: kalamata-oliver
+  - name: kalamata-oliver, urkärnade
     quantity: 1,2 dl
   - name: liten gurka – lätt skalad och tärnad
     quantity: 1
