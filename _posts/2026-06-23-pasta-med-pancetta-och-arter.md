@@ -16,7 +16,7 @@ ingredients:
     quantity: 190 g
   - name: ägg
     quantity: 1
-  - name: pancetta
+  - name: pancetta, tärnad
     quantity: 75 g
   - name: frysta ärtor
     quantity: 110 g
