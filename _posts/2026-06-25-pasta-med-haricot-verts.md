@@ -15,7 +15,7 @@ calories: 592
 ingredients:
   - name: pasta, t ex casarecce
     quantity: 200 g
-  - name: frysta haricot verts
+  - name: frysta haricot verts, bryt av de som är långa
     quantity: 250 g
   - name: olivolja
     quantity: 1 msk
