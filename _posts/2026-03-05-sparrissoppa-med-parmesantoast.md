@@ -5,7 +5,8 @@ description: "Sugen på sparris men säsongen har inte börjat än? Här är en 
 image: /assets/images/sparrissoppa-med-parmesantoast.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Soppa
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

@@ -5,7 +5,8 @@ description: "En väldigt fräsch och god pasta med räkor."
 image: /assets/images/pasta-med-rakor-och-citronolja.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

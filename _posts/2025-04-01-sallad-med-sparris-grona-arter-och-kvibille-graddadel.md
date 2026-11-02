@@ -5,6 +5,7 @@ description: "Jag älskar sparris, och när det är säsong äter vi väldigt my
 image: /assets/images/sallad-med-sparris-grona-arter-och-kvibille-graddadel.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

@@ -5,6 +5,7 @@ description: "Ännu en sallad med sparris! Det är roligt med pocherade ägg fö
 image: /assets/images/sparris-och-avokadosallad-med-bacon-och-pocherat-agg.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

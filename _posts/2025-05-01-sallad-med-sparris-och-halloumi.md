@@ -5,6 +5,7 @@ description: "Här kommer ännu en väldigt smarrig sallad med sparris. Denna g�
 image: /assets/images/sallad-med-sparris-och-halloumi.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

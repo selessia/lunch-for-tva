@@ -5,6 +5,7 @@ description: "Ännu en sallad med gravad lax! Den här är väldigt annorlunda m
 image: /assets/images/sallad-med-gravad-lax-avokado-och-agg.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

@@ -5,6 +5,7 @@ description: "Lättlagat och väldigt gott, med ingredienser man alltid kan ha h
 image: /assets/images/parmesanbakad-kolja-med-brysselkal.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

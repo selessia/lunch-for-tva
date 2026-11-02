@@ -5,6 +5,7 @@ description: "Det här är jättegott, och perfekt om man gillar aubergine och �
 image: /assets/images/rostade-medelhavsgronsaker-med-agg.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

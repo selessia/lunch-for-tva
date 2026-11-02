@@ -5,6 +5,7 @@ description: "En superenkel och jättegod pasta!"
 image: /assets/images/pasta-med-pancetta-och-tomatsas.webp
 
 # Recipe-specific data
+course: Lunch
 category: Pasta
 servings: "2 portioner"
 calories: 550

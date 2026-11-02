@@ -5,7 +5,8 @@ description: "En snabblagad och god broccoli-soppa, med en smarrig ostmacka som 
 image: /assets/images/broccolisoppa-pa-fryst-broccoli.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Soppa
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

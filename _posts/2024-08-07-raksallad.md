@@ -5,6 +5,7 @@ description: "Detta är som en klassisk räkmacka men i salladsform. Nyttigare o
 image: /assets/images/raksallad.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

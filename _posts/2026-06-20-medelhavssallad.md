@@ -5,6 +5,7 @@ description: "Ännu en enkel och god sallad som passar perfekt när det är varm
 image: /assets/images/medelhavssallad.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

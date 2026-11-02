@@ -5,7 +5,8 @@ description: "En enkel pasta med ingredienser som man alltid kan ha hemma."
 image: /assets/images/pasta-med-pancetta-och-arter.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

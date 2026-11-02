@@ -5,6 +5,7 @@ description: "En förenklad version av Cake by Marys version av Jennifer Aniston
 image: /assets/images/quinoasallad-med-kikartor.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

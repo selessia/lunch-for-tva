@@ -5,6 +5,7 @@ description: "Med färdiga schnitzlar från frysen går det snabbt och enkelt! S
 image: /assets/images/schnitzel-med-ruccola-sallad.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

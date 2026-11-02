@@ -5,6 +5,7 @@ description: "Här är en väldigt god sallad med jätteräkor och vita bönor, 
 image: /assets/images/vita-bonor-med-jatterakor-och-pesto.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

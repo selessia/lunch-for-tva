@@ -5,6 +5,7 @@ description: "Det här är kanske lite mer middag än lunch, men supergott om ma
 image: /assets/images/ljummen-biffsallad-med-teriyaki.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

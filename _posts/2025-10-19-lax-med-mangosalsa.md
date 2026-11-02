@@ -5,6 +5,7 @@ description: "Laxen blir jättegod av att stekas i smör och honung, och passar 
 image: /assets/images/lax-med-mangosalsa.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

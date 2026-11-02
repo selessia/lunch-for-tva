@@ -5,6 +5,7 @@ description: "Ännu en smarrig sommar-sallad med jordgubbar!"
 image: /assets/images/sallad-med-jordgubbar-avokado-och-vallmofrodressing.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

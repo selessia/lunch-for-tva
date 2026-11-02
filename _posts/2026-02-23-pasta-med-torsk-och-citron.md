@@ -5,7 +5,8 @@ description: "En otroligt god pasta med torsk. Kombinationen vitlök/citron/chil
 image: /assets/images/pasta-med-torsk-och-citron.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

@@ -5,7 +5,8 @@ description: "Snabbt, fräscht och smarrigt! Pumpakärnor som topping är väldi
 image: /assets/images/pasta-med-hummus-och-citron.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

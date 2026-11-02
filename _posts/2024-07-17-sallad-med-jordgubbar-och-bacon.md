@@ -5,6 +5,7 @@ description: "Kanske den optimala salladen med jordgubbar? I alla fall min favor
 image: /assets/images/sallad-med-jordgubbar-och-bacon.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

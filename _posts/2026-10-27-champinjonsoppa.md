@@ -5,7 +5,8 @@ description: "En otroligt god soppa på fryst och torkad svamp, med en enkel och
 image: /assets/images/champinjonsoppa.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Soppa
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

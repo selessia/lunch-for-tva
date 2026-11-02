@@ -5,6 +5,7 @@ description: "Med färdiga chicken nuggets som man gör klart i ugnen går det s
 image: /assets/images/caesar-sallad-med-chicken-nuggets.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

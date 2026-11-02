@@ -5,6 +5,7 @@ description: "Den här salladen hittade min man på, men han brukar ha rökt lax
 image: /assets/images/sallad-med-gravad-lax-sparris-och-pepparrot.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 calories: 628

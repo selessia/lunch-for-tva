@@ -5,6 +5,7 @@ description: "Den h채r salladen har vi 채tit v채ldigt m책nga g책nger! Den 채r l�
 image: /assets/images/sallad-med-arter-och-kramig-dressing.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

@@ -5,6 +5,7 @@ description: "Här är en väldigt fräsch och god sallad med sparris! "
 image: /assets/images/sparris-sallad-med-radisor-och-fetaost.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

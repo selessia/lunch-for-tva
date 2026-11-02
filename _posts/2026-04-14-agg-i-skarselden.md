@@ -5,6 +5,7 @@ description: "Som shakshuka, men med italienska smaker. Enkelt och jättegott!"
 image: /assets/images/agg-i-skarselden.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

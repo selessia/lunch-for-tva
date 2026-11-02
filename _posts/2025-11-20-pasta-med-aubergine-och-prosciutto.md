@@ -5,7 +5,8 @@ description: "Använd en riktigt bra citron-olivolja så blir det här väldigt 
 image: /assets/images/pasta-med-aubergine-och-prosciutto.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

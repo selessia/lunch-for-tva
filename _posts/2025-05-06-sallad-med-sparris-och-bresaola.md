@@ -5,6 +5,7 @@ description: "Ännu en sallad med sparris, denna gång även med bresaola och bu
 image: /assets/images/sallad-med-sparris-och-bresaola.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 calories: 647

@@ -5,6 +5,7 @@ description: "En copycat av Holy Greens 'Räka Padano' sallad som de hade under 
 image: /assets/images/raka-padano-holy-greens-copycat.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

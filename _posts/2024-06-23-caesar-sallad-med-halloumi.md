@@ -5,6 +5,7 @@ description: "En nästan vegetarisk variant av caesar-sallad (bortsett från sar
 image: /assets/images/caesar-sallad-med-halloumi.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 calories: 637

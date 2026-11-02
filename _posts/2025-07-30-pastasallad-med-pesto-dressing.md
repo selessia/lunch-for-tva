@@ -5,6 +5,7 @@ description: "Den här pasta-salladen är jättegod! Den behöver vila i kylskå
 image: /assets/images/pastasallad-med-pesto-dressing.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

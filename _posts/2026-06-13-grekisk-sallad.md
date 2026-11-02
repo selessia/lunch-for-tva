@@ -5,6 +5,7 @@ description: "En fräsch sallad som passar perfekt när det är varmt ute."
 image: /assets/images/grekisk-sallad.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

@@ -5,6 +5,7 @@ description: "Ännu en smarrig sparris-sallad, denna gång med getost."
 image: /assets/images/sparris-sallad-med-getost.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

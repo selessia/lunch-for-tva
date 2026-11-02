@@ -5,6 +5,7 @@ description: "Nu börjar det bli lite kyligare ute, så det kan passa med varmar
 image: /assets/images/shakshuka.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

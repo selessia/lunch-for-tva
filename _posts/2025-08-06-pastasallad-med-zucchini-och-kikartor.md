@@ -5,6 +5,7 @@ description: "En jättegod varm sallad! Det är inte så mycket pasta i den utan
 image: /assets/images/pastasallad-med-zucchini-och-kikartor.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

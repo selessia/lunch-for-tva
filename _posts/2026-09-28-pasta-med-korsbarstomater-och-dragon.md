@@ -5,7 +5,8 @@ description: "Tomat och dragon är en kul kombination! Här förenas de i en enk
 image: /assets/images/pasta-med-korsbarstomater-och-dragon.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

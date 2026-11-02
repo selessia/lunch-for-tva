@@ -5,6 +5,7 @@ description: "Jättegott och nyttigt!"
 image: /assets/images/teriyaki-lax-med-gronkal.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

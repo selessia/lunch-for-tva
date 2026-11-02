@@ -5,6 +5,7 @@ description: "En copycat av Holy Greens 'Green Goddess' sallad."
 image: /assets/images/green-goddess-holy-greens-copycat.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:

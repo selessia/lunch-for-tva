@@ -5,7 +5,8 @@ description: "Den allra bästa broccoli-pastan, tycker jag."
 image: /assets/images/broccolipasta.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

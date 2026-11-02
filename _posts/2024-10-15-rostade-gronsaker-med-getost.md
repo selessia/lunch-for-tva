@@ -5,6 +5,7 @@ description: "Det här blir som en varm sallad!"
 image: /assets/images/rostade-gronsaker-med-getost.webp
 
 # Recipe-specific data
+course: Lunch
 category: Varm mat
 servings: "2 portioner"
 diet:

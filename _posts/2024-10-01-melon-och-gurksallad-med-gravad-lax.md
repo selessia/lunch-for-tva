@@ -5,6 +5,7 @@ description: "Så gott så att man aldrig vill att det ska ta slut."
 image: /assets/images/melon-och-gurksallad-med-gravad-lax.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 calories: 697

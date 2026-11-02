@@ -5,7 +5,8 @@ description: "En fräsch och god pasta med ingredienser som man alltid kan ha he
 image: /assets/images/pasta-med-haricot-verts.webp
 
 # Recipe-specific data
-category: Varm mat
+course: Lunch
+category: Pasta
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

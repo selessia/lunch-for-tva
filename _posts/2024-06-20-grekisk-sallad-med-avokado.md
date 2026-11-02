@@ -5,6 +5,7 @@ description: "Grekisk sallad är jättegott, och med avokado i blir den lite mat
 image: /assets/images/grekisk-sallad-med-avokado.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 diet:
