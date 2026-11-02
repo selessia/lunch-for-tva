@@ -72,6 +72,8 @@
     {% if page.prepTime %},"prepTime": "{{ page.prepTime }}"{% endif %}
     {% if page.cookTime %},"cookTime": "{{ page.cookTime }}"{% endif %}
     {% if page.totalTime %},"totalTime": "{{ page.totalTime }}"{% endif %}
+    {% assign recipe_cui = page.cuisine | default: page.recipeCuisine %}
+    {% if recipe_cui %},"recipeCuisine": "{{ recipe_cui | escape }}"{% endif %}
     {% assign recipe_cat = page.course | default: page.recipeCategory | default: page.category %}
     {% if recipe_cat %},"recipeCategory": "{{ recipe_cat | escape }}"{% endif %}
     ,"recipeIngredient": [

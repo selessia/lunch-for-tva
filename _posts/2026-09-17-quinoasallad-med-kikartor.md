@@ -7,6 +7,7 @@ image: /assets/images/quinoasallad-med-kikartor.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Mellanöstern
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

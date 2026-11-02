@@ -7,6 +7,7 @@ image: /assets/images/rostade-medelhavsgronsaker-med-agg.webp
 # Recipe-specific data
 course: Lunch
 category: Varm mat
+cuisine: Medelhavsinspirerat
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

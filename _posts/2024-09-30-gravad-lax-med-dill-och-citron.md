@@ -6,6 +6,7 @@ image: /assets/images/gravad-lax-med-dill-och-citron.webp
 
 # Recipe-specific data
 category: Ingrediens
+cuisine: Nordiskt
 servings: "Räcker till 4 portioner sallad"
 
 ingredients:

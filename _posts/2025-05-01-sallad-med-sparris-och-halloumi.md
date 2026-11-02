@@ -7,6 +7,7 @@ image: /assets/images/sallad-med-sparris-och-halloumi.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Medelhavsinspirerat
 servings: "2 portioner"
 diet:
   - VegetarianDiet

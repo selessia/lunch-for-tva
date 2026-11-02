@@ -7,6 +7,7 @@ image: /assets/images/caesar-sallad-med-chicken-nuggets.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordamerikanskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

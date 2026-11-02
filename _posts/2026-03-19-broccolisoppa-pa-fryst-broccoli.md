@@ -7,6 +7,7 @@ image: /assets/images/broccolisoppa-pa-fryst-broccoli.webp
 # Recipe-specific data
 course: Lunch
 category: Soppa
+cuisine: Nordiskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

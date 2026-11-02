@@ -7,6 +7,7 @@ image: /assets/images/ljummen-biffsallad-med-teriyaki.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Asiatiskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

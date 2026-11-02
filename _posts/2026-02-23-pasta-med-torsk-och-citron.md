@@ -7,6 +7,7 @@ image: /assets/images/pasta-med-torsk-och-citron.webp
 # Recipe-specific data
 course: Lunch
 category: Pasta
+cuisine: Medelhavsinspirerat
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

@@ -7,6 +7,7 @@ image: /assets/images/sallad-med-arter-och-kramig-dressing.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordiskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

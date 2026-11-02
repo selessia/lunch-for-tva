@@ -7,6 +7,7 @@ image: /assets/images/sparris-och-avokadosallad-med-bacon-och-pocherat-agg.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordiskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

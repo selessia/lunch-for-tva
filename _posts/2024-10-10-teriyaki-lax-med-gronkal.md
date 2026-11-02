@@ -7,6 +7,7 @@ image: /assets/images/teriyaki-lax-med-gronkal.webp
 # Recipe-specific data
 course: Lunch
 category: Varm mat
+cuisine: Asiatiskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

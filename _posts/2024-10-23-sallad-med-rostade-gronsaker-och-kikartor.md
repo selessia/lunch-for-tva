@@ -7,6 +7,7 @@ image: /assets/images/sallad-med-rostade-gronsaker-och-kikartor.webp
 # Recipe-specific data
 course: Lunch
 category: Varm mat
+cuisine: Mellanöstern
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

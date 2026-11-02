@@ -7,6 +7,7 @@ image: /assets/images/champinjonsoppa.webp
 # Recipe-specific data
 course: Lunch
 category: Soppa
+cuisine: Franskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

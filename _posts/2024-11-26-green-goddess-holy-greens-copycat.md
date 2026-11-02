@@ -7,6 +7,7 @@ image: /assets/images/green-goddess-holy-greens-copycat.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordamerikanskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

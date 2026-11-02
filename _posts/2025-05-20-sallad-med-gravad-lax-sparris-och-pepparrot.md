@@ -7,6 +7,7 @@ image: /assets/images/sallad-med-gravad-lax-sparris-och-pepparrot.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordiskt
 servings: "2 portioner"
 calories: 628
 

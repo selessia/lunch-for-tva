@@ -7,6 +7,7 @@ image: /assets/images/cobb-sallad-utan-kyckling.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordamerikanskt
 servings: "2 portioner"
 calories: 640
 

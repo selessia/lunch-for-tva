@@ -7,6 +7,7 @@ image: /assets/images/lax-med-mangosalsa.webp
 # Recipe-specific data
 course: Lunch
 category: Varm mat
+cuisine: Fusion
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

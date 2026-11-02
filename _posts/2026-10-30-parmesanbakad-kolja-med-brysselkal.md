@@ -7,6 +7,7 @@ image: /assets/images/parmesanbakad-kolja-med-brysselkal.webp
 # Recipe-specific data
 course: Lunch
 category: Varm mat
+cuisine: Nordiskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

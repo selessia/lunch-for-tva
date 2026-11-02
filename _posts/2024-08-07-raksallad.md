@@ -7,6 +7,7 @@ image: /assets/images/raksallad.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordiskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

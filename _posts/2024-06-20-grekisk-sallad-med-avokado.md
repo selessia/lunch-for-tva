@@ -7,6 +7,7 @@ image: /assets/images/grekisk-sallad-med-avokado.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Medelhavsinspirerat
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

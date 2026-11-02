@@ -7,6 +7,7 @@ image: /assets/images/pasta-med-spenat-och-champinjoner.webp
 # Recipe-specific data
 course: Lunch
 category: Pasta
+cuisine: Italienskt
 servings: "2 portioner"
 diet:
   - VegetarianDiet

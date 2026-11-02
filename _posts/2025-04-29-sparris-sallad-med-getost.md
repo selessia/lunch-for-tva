@@ -7,6 +7,7 @@ image: /assets/images/sparris-sallad-med-getost.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Medelhavsinspirerat
 servings: "2 portioner"
 diet:
   - VegetarianDiet

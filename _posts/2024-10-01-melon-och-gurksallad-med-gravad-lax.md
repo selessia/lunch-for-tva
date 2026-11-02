@@ -7,6 +7,7 @@ image: /assets/images/melon-och-gurksallad-med-gravad-lax.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Nordiskt
 servings: "2 portioner"
 calories: 697
 

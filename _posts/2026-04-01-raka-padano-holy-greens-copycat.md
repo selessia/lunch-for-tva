@@ -7,6 +7,7 @@ image: /assets/images/raka-padano-holy-greens-copycat.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Medelhavsinspirerat
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

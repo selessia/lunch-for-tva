@@ -7,6 +7,7 @@ image: /assets/images/schnitzel-med-ruccola-sallad.webp
 # Recipe-specific data
 course: Lunch
 category: Varm mat
+cuisine: Italienskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

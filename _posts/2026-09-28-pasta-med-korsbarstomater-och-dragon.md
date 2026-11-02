@@ -7,6 +7,7 @@ image: /assets/images/pasta-med-korsbarstomater-och-dragon.webp
 # Recipe-specific data
 course: Lunch
 category: Pasta
+cuisine: Italienskt
 servings: "2 portioner"
 diet:
   - LowCalorieDiet

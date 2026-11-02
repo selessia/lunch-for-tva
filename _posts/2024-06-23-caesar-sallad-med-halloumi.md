@@ -7,6 +7,7 @@ image: /assets/images/caesar-sallad-med-halloumi.webp
 # Recipe-specific data
 course: Lunch
 category: Sallad
+cuisine: Medelhavsinspirerat
 servings: "2 portioner"
 calories: 637
             
