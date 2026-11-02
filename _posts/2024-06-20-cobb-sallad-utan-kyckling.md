@@ -5,6 +5,7 @@ description: "Det brukar vara kyckling i Cobb-sallad, men det är det inte i den
 image: /assets/images/cobb-sallad-utan-kyckling.webp
 
 # Recipe-specific data
+course: Lunch
 category: Sallad
 servings: "2 portioner"
 calories: 640
