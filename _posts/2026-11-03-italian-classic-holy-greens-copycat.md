@@ -60,7 +60,7 @@ ingredients:
         quantity: 2 dl
       - name: salt
         quantity: ½ krm
-  - section: "Blodapelsinvinägrett"
+  - section: "Apelsinvinägrett"
     items:
       - name: apelsinjuice
         quantity: 2,5 msk
