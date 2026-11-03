@@ -81,7 +81,6 @@ instructions:
 - I en liten skål, blanda olivolja, örtkryddor, vitlök, salt och peppar.
 - Lägg i bollarna och blanda försiktigt.
 - Täck över och låt stå i kylen i 15-20 minuter eller över natten.
-- "Salladen:"
 - "Sousvidda kycklingen: Ställ in sous-vidden på 65 grader. Vakuumförslut kycklingen (med lite salt och peppar) och koka i 1,5 timme. Ta upp påsen från vattnet och klappa kycklingen torr. Skiva kycklingen."
 - I en liten kastrull, koka upp quinoa, vatten och salt. Låt sjuda på låg värme under lock i 15 minuter. Låt vila under lock i ytterligare 5 minuter. Ta av locket och låt den svalna.
 - Ta ut fänkål och mozzarella så att de får rumstempereras (om de var kylda). Sila bort vätskan från fänkålen.
