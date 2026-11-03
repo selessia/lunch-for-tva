@@ -72,17 +72,17 @@ ingredients:
         quantity: Nypa
         
 instructions:
-- "Picklad fänkål (förbered dagen innan alternativt en halvtimme i förväg):"
+- "**Picklad fänkål (förbered dagen innan alternativt en halvtimme i förväg):**"
 - Ansa fänkålen och strimla den så tunt som möjligt, gärna med en mandolin. Lägg skivorna i en värmetålig bunke.
 - I en liten kastrull, blanda vatten, vinäger, salt, socker och senapsfrön. Låt sjuda tills saltet och sockret löst upp sig.
 - Häll lagen över fänkålen och låt antingen stå i rumstemperatur i 30 minuter eller i kylen över natten.
-- "Örtmarinerad mini mozzarella (förbered dagen innan alternativt en halvtimme i förväg):"
+- "**Örtmarinerad mini mozzarella (förbered dagen innan alternativt en halvtimme i förväg):**"
 - Rinn av mozzarella-bollarna och klappa dem torra med hushållspapper.
 - I en liten skål, blanda olivolja, örtkryddor, vitlök, salt och peppar.
 - Lägg i bollarna och blanda försiktigt.
 - Täck över och låt stå i kylen i 15-20 minuter eller över natten.
-- "Sousvidda kycklingen: Ställ in sous-vidden på 65 grader. Vakuumförslut kycklingen (med lite salt och peppar) och koka i 1,5 timme. Ta upp påsen från vattnet och klappa kycklingen torr. Skiva kycklingen."
-- I en liten kastrull, koka upp quinoa, vatten och salt. Låt sjuda på låg värme under lock i 15 minuter. Låt vila under lock i ytterligare 5 minuter. Ta av locket och låt den svalna.
+- "**Sousvidda kycklingen:** Ställ in sous-vidden på 65 grader. Vakuumförslut kycklingen (med lite salt och peppar) och koka i 1,5 timme. Ta upp påsen från vattnet och klappa kycklingen torr. Skiva kycklingen."
+- "**Quinoa:** I en liten kastrull, koka upp quinoa, vatten och salt. Låt sjuda på låg värme under lock i 15 minuter. Låt vila under lock i ytterligare 5 minuter. Ta av locket och låt den svalna."
 - Ta ut fänkål och mozzarella så att de får rumstempereras (om de var kylda). Sila bort vätskan från fänkålen.
 - Skaka ihop vinägretten i en liten burk (skaka igen före användning).
 - Fördela salladsmix på två tallrikar.
