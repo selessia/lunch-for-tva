@@ -21,7 +21,7 @@ ingredients:
     quantity: 1
   - name: vitlök, pressade
     quantity: 2 klyftor
-  - name: liten zuccini, tärnad
+  - name: liten zucchini, tärnad
     quantity: 1
   - name: kapris
     quantity: 1 msk
